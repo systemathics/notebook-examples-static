@@ -1,0 +1,1001 @@
+Index,Name,Ticker,Exchange,Primary,Isin,Cusip,Sedol
+"['Nasdaq 100', 'Nasdaq Composite']",Zegona Communications Plc,ZEGl,CHIX,XLON,GB00BVGBY890,G7605F103,BVGBY89
+"['Nasdaq 100', 'Nasdaq Composite']",Mercadolibre Inc Mercadolibre Ord Shs,0K0E,XLON,XLOM,US58733R1023,58733R102,BDDXSP7
+"['Nasdaq 100', 'Nasdaq Composite']",Astrazeneca Plc Astrazeneca Adr Representing 05 Ord Shs,0A4J,XLON,XLOM,US0463531089,046353108,2989022
+"['Nasdaq 100', 'Nasdaq Composite']",Mercadolibre Inc,MELI,BATS,XNGS,US58733R1023,58733R102,B23X1H3
+"['Nasdaq 100', 'Nasdaq Composite']",Mercadolibre Inc,MELI,XNGS,XNGS,US58733R1023,58733R102,B23X1H3
+['Nasdaq 100'],Liberty Global Plc,LBTYK,BATS,XNGS,GB00B8W67B19,G5480U120,B8W67B1
+['Nasdaq 100'],Check Point Software Technologies L Check Point Software Technologies Ord Sh,0Y9S,XLON,XLOM,IL0010824113,M22465104,B0Z87W9
+['Nasdaq 100'],Liberty Global Plc,LBTYB,BATS,XNGS,GB00B8W67779,G5480U112,B8W6777
+['Nasdaq 100'],Liberty Latin America Ltd Cl C,LILAK,XNGS,XNGS,BMG9001E1286,,BD9Q3Q6
+['Nasdaq 100'],Liberty Latin America Ltd Liberty Latin America Ord Shs Class A,0MDR,XLON,XLOM,BMG9001E1021,,BDCXLC6
+['Nasdaq 100'],Liberty Global Plc Cl B,LBTYB,XNGS,XNGS,GB00B8W67779,G5480U112,B8W6777
+['Nasdaq Composite'],Curevac Nv,CVAC,XNMS,XNMS,NL0015436031,N2451R105,BN4RD42
+['Nasdaq 100'],Check Point Software Technolog,CHKP,XNGS,XNGS,IL0010824113,,2181334
+['Nasdaq 100'],Vodafone Group Plc Vodafone Group Adr Representing 10 Ord S,0LQQ,XLON,XLOM,US92857W3088,92857W308,BYZHGV6
+['Nasdaq 100'],Liberty Latin America Ltd Liberty Latin America Ord Shs Class C,0MDS,XLON,XLOM,BMG9001E1286,,BDD0Q21
+['Nasdaq 100'],Liberty Global Plc Cl C,LBTYK,XNGS,XNGS,GB00B8W67B19,G5480U120,B8W67B1
+['Nasdaq Composite'],Curevac Nv,CVAC,BATS,XNMS,NL0015436031,N2451R105,BN4RD42
+['Nasdaq 100'],Liberty Latin America Ltd,LILAK,BATS,XNGS,BMG9001E1286,,BD9Q3Q6
+['Nasdaq 100'],Check Point Software Technologies,CHKP,BATS,XNGS,IL0010824113,M22465104,2181334
+['Nasdaq 100'],Liberty Latin America Ltd Cl A,LILA,XNGS,XNGS,BMG9001E1021,,BD9Q3P5
+['Nasdaq 100'],Liberty Latin America Ltd,LILA,BATS,XNGS,BMG9001E1021,,BD9Q3P5
+['Nasdaq 100'],Liberty Global Plc,LBTYA,BATS,XNGS,GB00B8W67662,G5480U104,B8W6766
+['Nasdaq 100'],Liberty Global Plc Liberty Global Ord Shs Class A,0XHR,XLON,XLOM,GB00B8W67662,G5480U104,BDDY184
+['Nasdaq 100'],Vodafone Group Plc,VODl,CHIX,XLON,GB00BH4HKS39,G93882192,BH4HKS3
+['Nasdaq 100'],Liberty Global Plc Liberty Global Ord Shs Class C,0XHS,XLON,XLOM,GB00B8W67B19,G5480U120,BDDY195
+"['Nasdaq 100', 'Nasdaq Composite', 'Snp 500']",Nxp Semiconductors N V,NXPI,BATS,XNGS,NL0009538784,N6596X109,B505PN7
+"['Nasdaq 100', 'Nasdaq Composite', 'Snp 500']",Nxp Semiconductors NV,NXPI,XNGS,XNGS,NL0009538784,N6596X109,B505PN7
+"['Nasdaq 100', 'Nasdaq Composite', 'Snp 500']",Seagate Technology Holdings Plc,STX,BATS,XNGS,IE00BKVD2N49,G7997R103,BKVD2N4
+"['Nasdaq 100', 'Nasdaq Composite', 'Snp 500']",Seagate Technology Holdings Pl,STX,XNGS,XNGS,,,BKVD2N4
+"['Nasdaq 100', 'Nasdaq Composite', 'Snp 500']",Nxp Semiconductors Nv Nxp Semiconductors Ord Shs,0EDE,XLON,XLOM,NL0009538784,N6596X109,BFWMVQ1
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Datadog Inc Cl A,DDOG,XNGS,XNGS,US23804L1035,23804L103,BKT9Y49
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Crowdstrike Holdings Inc Crowdstrike Holdings Ord Shs Class A,0A3N,XLON,XLOM,US22788C1053,22788C105,BMX6LS3
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Mattel Inc,MAT,BATS,XNGS,US5770811025,577081102,2572303
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Datadog Inc,DDOG,BATS,XNGS,US23804L1035,23804L103,BKT9Y49
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Sirius Xm Holdings Inc,SIRI,BATS,XNGS,US82968B1035,82968B103,BGLDK10
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Crowdstrike Holdings Inc Cl A,CRWD,XNGS,XNGS,US22788C1053,22788C105,BJJP138
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Zoom Video Communications Inc,ZM,BATS,XNGS,US98980L1017,98980L101,BGSP7M9
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Zscaler Inc,ZS,BATS,XNGS,US98980G1022,98980G102,BZ00V34
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Mattel Inc,MAT,XNGS,XNGS,US5770811025,577081102,2572303
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Airbnb Inc Cl A,ABNB,XNGS,XNGS,US0090661010,009066101,BMGYYH4
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Airbnb Inc Airbnb Ord Shs Class A,0A8C,XLON,XLOM,US0090661010,009066101,BLFJ116
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Atlassian Corporation Plc,TEAM,BATS,XNGS,GB00BZ09BD16,G06242104,BZ09BD1
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Splunk Inc Splunk Ord Shs,0R09,XLON,XLOM,US8486371045,848637104,BSJC961
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Stericycle Inc,SRCL,XNGS,XNGS,US8589121081,858912108,2860826
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Workday Inc A,WDAY,XNGS,XNGS,US98138H1014,98138H101,B8K6ZD1
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Biomarin Pharmaceuticals,BMRN,XNGS,XNGS,US09061G1013,09061G101,2437071
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Docusign Inc Docusign Ord Shs,0XNH,XLON,XLOM,US2561631068,256163106,BYVR212
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Splunk Inc,SPLK,BATS,XNGS,US8486371045,848637104,B424494
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Okta Inc,OKTA,BATS,XNGS,US6792951054,679295105,BDFZSP1
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Zoom Video Communications Cl A,ZM,XNGS,XNGS,US98980L1017,98980L101,BGSP7M9
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Lucid Group Inc,LCID,XNGS,XNGS,US5494981039,549498103,BP0TR77
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Zscaler Inc,ZS,XNGS,XNGS,US98980G1022,98980G102,BZ00V34
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Seagen Inc,SGEN,BATS,XNGS,US81181C1045,81181C104,BLPK4D2
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Mattel Inc Mattel Ord Shs,0JZH,XLON,XLOM,US5770811025,577081102,BYZH8R6
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Okta Inc Okta Ord Shs Class A,0KB7,XLON,XLOM,US6792951054,679295105,BG05Y04
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Splunk Inc,SPLK,XNGS,XNGS,US8486371045,848637104,B424494
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Workday Inc,WDAY,BATS,XNGS,US98138H1014,98138H101,B8K6ZD1
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Docusign Inc,DOCU,XNGS,XNGS,US2561631068,256163106,BFYT7B7
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Lucid Group Inc,LCID,BATS,XNGS,US5494981039,549498103,BP0TR77
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Zscaler Inc Zscaler Ord Shs,0XVU,XLON,XLOM,US98980G1022,98980G102,BFZ4S63
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Sirius Xm Holdings,SIRI,XNGS,XNGS,US82968B1035,82968B103,BGLDK10
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Biomarin Pharmaceutical,BMRN,BATS,XNGS,US09061G1013,09061G101,2437071
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Lululemon Athletica Inc,LULU,XNGS,XNGS,US5500211090,550021109,B23FN39
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Palo Alto Networks Inc,PANW,BATS,XNGS,US6974351057,697435105,B87ZMX0
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Marvell Technology Inc,MRVL,XNGS,XNGS,US5738741041,573874104,BNKJSM5
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Team Inc,TISI,BATS,XNYS,US8781551002,878155100,2879123
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Marvell Technology Inc,MRVL,BATS,XNGS,US5738741041,573874104,BNKJSM5
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Lululemon Athletica Inc,LULU,BATS,XNGS,US5500211090,550021109,B23FN39
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Docusign Inc,DOCU,BATS,XNGS,US2561631068,256163106,BFYT7B7
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Stericycle Inc,SRCL,BATS,XNGS,US8589121081,858912108,2860826
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Zoom Video Communications Inc Zoom Video Communications Ord Shs Class,0A1O,XLON,XLOM,US98980L1017,98980L101,BJGV4Q3
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Atlassian Corp Plc,TEAM,XNGS,XNGS,GB00BZ09BD16,G06242104,BZ09BD1
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Airbnb Inc,ABNB,BATS,XNGS,US0090661010,009066101,BMGYYH4
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Crowdstrike Holdings Inc,CRWD,BATS,XNGS,US22788C1053,22788C105,BJJP138
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Workday Inc Workday Ord Shs Class A,0M18,XLON,XLOM,US98138H1014,98138H101,BYZHKF8
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Team Inc,TISI,XNYS,XNYS,US8781551002,878155100,2879123
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Seagen Inc,SGEN,XNGS,XNGS,US81181C1045,81181C104,BLPK4D2
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Stericycle Inc Stericycle Ord Shs,0L9O,XLON,XLOM,US8589121081,858912108,BYZHFZ3
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Palo Alto Networks,PANW,XNGS,XNGS,US6974351057,697435105,B87ZMX0
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Team,MLTEA,XPAR,XMLI,FR0000033466,,5590346
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Okta Inc Cl A,OKTA,XNGS,XNGS,US6792951054,679295105,BDFZSP1
+"['Nasdaq 100', 'Snp 500']",Paccar Inc,PCAR,XNGS,XNGS,US6937181088,693718108,2665861
+"['Nasdaq 100', 'Snp 500']",Fox Corporation,FOXA,BATS,XNGS,US35137L1052,35137L105,BJJMGL2
+"['Nasdaq 100', 'Snp 500']",Fox Corp Fox Ord Shs Class A,0A0X,XLON,XLOM,US35137L1052,35137L105,BJMXVZ1
+"['Nasdaq 100', 'Snp 500']",Paychex Inc,PAYX,BATS,XNGS,US7043261079,704326107,2674458
+"['Nasdaq 100', 'Snp 500']",American Electric Power Co Inc,AEP,XNGS,XNGS,US0255371017,025537101,2026242
+"['Nasdaq 100', 'Snp 500']",American Electric Power Company Inc American Electric Power Ord Shs,0HEC,XLON,XLOM,US0255371017,025537101,BYZHDP9
+"['Nasdaq 100', 'Snp 500']",Constellation Energy Corporation,CEG,BATS,XNGS,US21037T1097,,BMH4FS1
+"['Nasdaq 100', 'Snp 500']",Paccar Inc,PCAR,BATS,XNGS,US6937181088,693718108,2665861
+"['Nasdaq 100', 'Snp 500']",Alphabet Inc,GOOGL,BATS,XNGS,US02079K3059,02079K305,BYVY8G0
+"['Nasdaq 100', 'Snp 500']",Fox Corp Fox Ord Shs Class B,0A0Y,XLON,XLOM,US35137L2043,35137L204,BJMXVG2
+"['Nasdaq 100', 'Snp 500']",Fox Corp Cl A,FOXA,XNGS,XNGS,US35137L1052,35137L105,BJJMGL2
+"['Nasdaq 100', 'Snp 500']",Alphabet Inc,GOOG,BATS,XNGS,US02079K1079,02079K107,BYY88Y7
+"['Nasdaq 100', 'Snp 500']",Alphabet Inc Cl C,GOOG,XNGS,XNGS,US02079K1079,02079K107,BYY88Y7
+"['Nasdaq Composite', 'Snp 500']",Solaredge Technologies Inc,SEDG,BATS,XNGS,US83417M1045,83417M104,BWC52Q6
+"['Nasdaq 100', 'Snp 500']",Parsec Cap Acquisitions Corp,PCX,BATS,XNMS,US70184A1088,70184A108,BP84H29
+"['Nasdaq 100', 'Snp 500']",Alphabet Inc,ABEAd,CHIX,XETR,US02079K3059,02079K305,BYWWH77
+"['Nasdaq 100', 'Snp 500']",American Electric Power Co Inc,AEP,BATS,XNGS,US0255371017,025537101,2026242
+"['Nasdaq 100', 'Snp 500']",Paychex Inc,PAYX,XNGS,XNGS,US7043261079,704326107,2674458
+"['Nasdaq Composite', 'Snp 500']",Solaredge Technologies Inc,SEDG,XNGS,XNGS,US83417M1045,83417M104,BWC52Q6
+"['Nasdaq 100', 'Snp 500']",Fox Corporation,FOX,BATS,XNGS,US35137L2043,35137L204,BJJMGY5
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Tesla Inc,TSLA,XNGS,XNGS,US88160R1014,88160R101,B616C79
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Texas Instruments Inc,TXN,BATS,XNGS,US8825081040,882508104,2885409
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Old Dominion Freight Line Inc Com,ODFL,XNGS,XNGS,US6795801009,679580100,2656423
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Fastned BV,FAST,XAMS,XAMS,NL0013654809,,BKDRZ13
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Moderna Inc,MRNA,BATS,XNGS,US60770K1079,60770K107,BGSXTS3
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Starbucks Corp,SBUX,BATS,XNGS,US8552441094,855244109,2842255
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Regeneron Pharmaceuticals Inc,REGN,BATS,XNGS,US75886F1075,75886F107,2730190
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Fortinet Inc,FTNT,XNGS,XNGS,US34959E1091,,B5B2106
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Broadcom Inc Broadcom Ord Shs,0YXG,XLON,XLOM,US11135F1012,11135F101,BZ1L8M4
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Analog Devices Inc,ADI,BATS,XNGS,US0326541051,032654105,2032067
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Analog Devices Inc,ADI,XNGS,XNGS,US0326541051,032654105,2032067
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Ulta Beauty Inc,ULTA,XNGS,XNGS,US90384S3031,90384S303,B28TS42
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Costco Wholesale Corp Costco Wholesale Ord Shs,0I47,XLON,XLOM,US22160K1051,22160K105,B0ZC378
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Monster Beverage Corp Monster Beverage Ord Shs,0K34,XLON,XLOM,US61174X1090,61174X109,BYZH906
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Citrix Systems Inc,CTXS,BATS,XNGS,US1773761002,177376100,2182553
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Xcel Energy Inc,XEL,XNGS,XNGS,US98389B1008,98389B100,2614807
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Fastenal,FAST,BATS,XNGS,US3119001044,311900104,2332262
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Ebay Inc,EBAY,XNGS,XNGS,US2786421030,278642103,2293819
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Monster Beverage Cp,MNST,XNGS,XNGS,US61174X1090,61174X109,BZ07BW4
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Copart Inc,CPRT,XNGS,XNGS,US2172041061,217204106,2208073
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Cdw Corp,CDW,XNGS,XNGS,US12514G1085,12514G108,BBM5MD6
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Intuitive Surgical,ISRG,XNGS,XNGS,US46120E6023,,2871301
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Skyworks Solutions Inc,SWKS,BATS,XNGS,US83088M1027,83088M102,2961053
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Booking Holdings Inc,BKNG,BATS,XNGS,US09857L1089,09857L108,BDRXDB4
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Wynn Resorts Ltd Wynn Resorts Ord Shs,0QYK,XLON,XLOM,US9831341071,983134107,BSJC9Q1
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Charter Communications Inc,CHTR,BATS,XNGS,US16119P1084,16119P108,BZ6VT82
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Vertex Pharmaceuticals,VRTX,XNGS,XNGS,US92532F1003,92532F100,2931034
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Kla Corporation,KLAC,BATS,XNGS,US4824801009,482480100,2480138
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Kraft Heinz Co,KHC,XNGS,XNGS,US5007541064,500754106,BYRY499
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Adobe Inc,ADBE,BATS,XNGS,US00724F1012,00724F101,2008154
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Akamai Technologies,AKAM,BATS,XNGS,US00971T1016,,2507457
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Incyte Co,INCY,XNGS,XNGS,US45337C1027,45337C102,2471950
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Xcel Energy Inc,XEL,BATS,XNGS,US98389B1008,98389B100,2614807
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Ch Robinson Worldwide Inc,CHRW,BATS,XNGS,US12541W2098,12541W209,2116228
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Incyte Corp Incyte Ord Shs,0J9P,XLON,XLOM,US45337C1027,45337C102,BYZH6X8
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Netapp Inc,NTAP,BATS,XNGS,US64110D1046,64110D104,2630643
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Applied Materials,AMAT,XNGS,XNGS,US0382221051,038222105,2046552
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Autodesk Inc,ADSK,XNGS,XNGS,US0527691069,052769106,2065159
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Cintas Co,CTAS,XNGS,XNGS,US1729081059,172908105,2197137
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Illumina Inc,ILMN,XNGS,XNGS,US4523271090,452327109,2613990
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Electronic Arts Ea,EA,XNGS,XNGS,US2855121099,285512109,2310194
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Ansys Inc,ANSS,XNGS,XNGS,US03662Q1058,03662Q105,2045623
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Klac,KLAC,XNGS,XNGS,US4824801009,482480100,2480138
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Verisk Analytics Inc,VRSK,BATS,XNGS,US92345Y1064,,B4P9W92
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Vertex Pharmaceutical,VRTX,BATS,XNGS,US92532F1003,92532F100,2931034
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Fortinet Inc Fortinet Ord Shs,0IR9,XLON,XLOM,US34959E1091,,BD6TFB7
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Take Two Interactive Software Inc,TTWO,BATS,XNGS,US8740541094,874054109,2122117
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Western Digital Corp,WDC,BATS,XNGS,US9581021055,958102105,2954699
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Biogen Inc Biogen Inc Ord Shs,0R1B,XLON,XLOM,US09062X1037,09062X103,B0Z5300
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Ulta Beauty Inc,ULTA,BATS,XNGS,US90384S3031,90384S303,B28TS42
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Activision Blizzard Inc,ATVI,BATS,XNGS,US00507V1098,00507V109,2575818
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Dollar Tree Inc,DLTR,XNGS,XNGS,US2567461080,256746108,2272476
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Mondelez International Inc Cl A,MDLZ,XNGS,XNGS,US6092071058,609207105,B8CKK03
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Adobe Systems,ADBE,XNGS,XNGS,US00724F1012,00724F101,2008154
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Keurig Dr Pepper Inc,KDP,BATS,XNGS,US49271V1008,49271V100,BD3W133
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Align Technology Inc,ALGN,XNGS,XNGS,US0162551016,016255101,2679204
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Netflix Inc,NFLX,XNGS,XNGS,US64110L1061,64110L106,2857817
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Marriott Intl,MAR,XNGS,XNGS,US5719032022,571903202,2210614
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Texas Instruments I,TXN,XNGS,XNGS,US8825081040,882508104,2885409
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Western Digital Corp Western Digital Ord Shs,0QZF,XLON,XLOM,US9581021055,958102105,BSJC9P0
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Biogen Inc,BIIB,BATS,XNGS,US09062X1037,09062X103,2455965
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Costco Wholesale Co,COST,XNGS,XNGS,US22160K1051,22160K105,2701271
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Qualcomm Inc,QCOM,BATS,XNGS,US7475251036,747525103,2714923
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Henry Schein Inc,HSIC,BATS,XNGS,US8064071025,806407102,2416962
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Ross Stores Inc,ROST,BATS,XNGS,US7782961038,778296103,2746711
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Costco Wholesale Corp,COST,BATS,XNGS,US22160K1051,22160K105,2701271
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Applied Materials Inc,AMAT,BATS,XNGS,US0382221051,038222105,2046552
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Booking Holdings Inc,BKNG,XNGS,XNGS,US09857L1089,09857L108,BDRXDB4
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Starbucks Co,SBUX,XNGS,XNGS,US8552441094,855244109,2842255
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Cognizant Technology Solutions Corp,CTSH,XNGS,XNGS,US1924461023,192446102,2257019
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Idexx Laboratories Inc,IDXX,XNGS,XNGS,US45168D1046,45168D104,2459202
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",T-Mobile Us Inc,TMUS,XNGS,XNGS,US8725901040,872590104,B94Q9V0
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Ch Robinson Worldwide Inc,CHRW,XNGS,XNGS,US12541W2098,12541W209,2116228
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Activision Blizzard Inc,ATVI,XNGS,XNGS,US00507V1098,00507V109,2575818
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Netapp Inc,NTAP,XNGS,XNGS,US64110D1046,64110D104,2630643
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Dentsply Sirona,XRAY,XNGS,XNGS,US24906P1093,24906P109,BYNPPC6
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Microchip Technology,MCHP,BATS,XNGS,US5950171042,595017104,2592174
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Fortinet Inc,FTNT,BATS,XNGS,US34959E1091,,B5B2106
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Wynn Resorts Ltd,WYNN,XNGS,XNGS,US9831341071,983134107,2963811
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Kraft Heinz Co,KHC,BATS,XNGS,US5007541064,500754106,BYRY499
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Paypal Holdings,PYPL,XNGS,XNGS,US70450Y1038,,BYW36M8
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Csx Corp,CSX,BATS,XNGS,US1264081035,126408103,2160753
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Amazon Com Inc,AMZN,BATS,XNGS,US0231351067,023135106,2000019
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Verisk Analytics Inc Verisk Analytics Ord Shs,0LP3,XLON,XLOM,US92345Y1064,,BYZHGS3
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Fastned Bv,FASTa,CHIX,XAMS,NL0013654809,,BKDRZ13
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Cadence Design Systems,CDNS,XNGS,XNGS,US1273871087,127387108,2302232
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Churchill Cap Corp,CCV,BATS,XNYS,US17144T1079,,BLF8414
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Incyte Corporation,INCY,BATS,XNGS,US45337C1027,45337C102,2471950
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Broadcom Inc,AVGO,BATS,XNGS,US11135F1012,11135F101,BDZ78H9
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Micron Technology Inc,MU,BATS,XNGS,US5951121038,595112103,2588184
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Fastenal Co Fastenal Ord Shs,0IKW,XLON,XLOM,US3119001044,311900104,B0ZSHQ3
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Fastenal Co,FAST,XNGS,XNGS,US3119001044,311900104,2332262
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Verisk Analytics In,VRSK,XNGS,XNGS,US92345Y1064,,B4P9W92
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Intuit Inc,INTU,BATS,XNGS,US4612021034,461202103,2459020
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Lam Research Corp,LRCX,BATS,XNGS,US5128071082,512807108,2502247
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Fiserv Inc,FISV,BATS,XNGS,US3377381088,337738108,2342034
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Csx Corp Csx Ord Shs,0HRJ,XLON,XLOM,US1264081035,126408103,0160551
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Fiserv Inc,FISV,XNGS,XNGS,US3377381088,337738108,2342034
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Mondelez Intl Inc,MDLZ,BATS,XNGS,US6092071058,609207105,B8CKK03
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Dexcom Inc Dexcom Ord Shs,0A4M,XLON,XLOM,US2521311074,252131107,BM9CB52
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",T-Mobile Us Inc T Mobile Us Ord Shs,0R2L,XLON,XLOM,US8725901040,872590104,BSJC701
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Moderna Inc,MRNA,XNGS,XNGS,US60770K1079,60770K107,BGSXTS3
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Nvidia Co,NVDA,XNGS,XNGS,US67066G1040,67066G104,2379504
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Ross Stores Inc Ross Stores Ord Shs,0KXO,XLON,XLOM,US7782961038,778296103,B114TS8
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Gilead Sciences Inc,GILD,BATS,XNGS,US3755581036,375558103,2369174
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Cdw Corp,CDW,BATS,XNGS,US12514G1085,12514G108,BBM5MD6
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Autodesk Inc Autodesk Ord Shs,0HJF,XLON,XLOM,US0527691069,052769106,BDDXMJ9
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Expedia Inc Expedia Ord Shs,0R1T,XLON,XLOM,US30212P3038,30212P303,BSJC7F6
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Gilead Sciences Inc,GILD,XNGS,XNGS,US3755581036,375558103,2369174
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Old Dominion Freight Line Inc,ODFL,BATS,XNGS,US6795801009,679580100,2656423
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Charter Communications,CHTR,XNGS,XNGS,US16119P1084,16119P108,BZ6VT82
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Electronic Arts Inc Electronic Arts Ord Shs,0IFX,XLON,XLOM,US2855121099,285512109,B0ZNDS2
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Netflix Inc,NFLX,BATS,XNGS,US64110L1061,64110L106,2857817
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Expeditors Intern Of Washington Inc,EXPD,BATS,XNGS,US3021301094,302130109,2325507
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Broadcom Ltd,AVGO,XNGS,XNGS,US11135F1012,11135F101,BDZ78H9
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Dollar Tree Inc,DLTR,BATS,XNGS,US2567461080,256746108,2272476
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Intuitive Surgical Inc,ISRG,BATS,XNGS,US46120E6023,,2871301
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Churchill Capital Corp V Cl A,CCV,XNYS,XNYS,US17144T1079,,BLF8414
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Texas Instruments Inc Texas Instrument Ord Shs,0R2H,XLON,XLOM,US8825081040,882508104,BSJC723
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Expedia Group Inc,EXPE,BATS,XNGS,US30212P3038,30212P303,B748CK2
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Marriott International Inc,MAR,BATS,XNGS,US5719032022,571903202,2210614
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Qualcomm Inc,QCOM,XNGS,XNGS,US7475251036,747525103,2714923
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Autodesk Inc,ADSK,BATS,XNGS,US0527691069,052769106,2065159
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Intuit,INTU,XNGS,XNGS,US4612021034,461202103,2459020
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Expedia Group,EXPE,XNGS,XNGS,US30212P3038,30212P303,B748CK2
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",American Airlines Group Inc,AAL,BATS,XNGS,US02376R1023,02376R102,BCV7KT2
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Verisign Inc,VRSN,XNGS,XNGS,US92343E1029,,2142922
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Idexx Laboratories Inc,IDXX,BATS,XNGS,US45168D1046,45168D104,2459202
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Align Technology Inc Align Technology Ord Shs,0HCK,XLON,XLOM,US0162551016,016255101,BYZHDH1
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Micron Technology I,MU,XNGS,XNGS,US5951121038,595112103,2588184
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Cognizant Technology Solutions Corp Cognizant Technology Solutions Ord Shs C,0QZ5,XLON,XLOM,US1924461023,192446102,BSJC6X7
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Cognizant Technology Solutions Corp,CTSH,BATS,XNGS,US1924461023,192446102,2257019
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Comcast Corp,CMCSA,BATS,XNGS,US20030N1019,20030N101,2044545
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Lam Research Corp Lam Research Ord Shs,0JT5,XLON,XLOM,US5128071082,512807108,BYZH7V3
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Synopsys Inc,SNPS,BATS,XNGS,US8716071076,871607107,2867719
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Biogen Idec,BIIB,XNGS,XNGS,US09062X1037,09062X103,2455965
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Oreilly Automotive Inc New,ORLY,BATS,XNGS,US67103H1077,67103H107,B65LWX6
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Cintas Corp,CTAS,BATS,XNGS,US1729081059,172908105,2197137
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Comcast Corp A,CMCSA,XNGS,XNGS,US20030N1019,20030N101,2044545
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",T-Mobile Us Inc,TMUS,BATS,XNGS,US8725901040,872590104,B94Q9V0
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Cadence Design Systems Inc,CDNS,BATS,XNGS,US1273871087,127387108,2302232
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Synopsys Inc Synopsys Ord Shs,0LBP,XLON,XLOM,US8716071076,871607107,B11JQD7
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Akamai Tech,AKAM,XNGS,XNGS,US00971T1016,,2507457
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Exelon Corp,EXC,BATS,XNGS,US30161N1019,30161N101,2670519
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Pepsico Inc,PEP,BATS,XNGS,US7134481081,713448108,2681511
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Ansys Inc,ANSS,BATS,XNGS,US03662Q1058,03662Q105,2045623
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Dexcom Inc,DXCM,BATS,XNGS,US2521311074,252131107,B0796X4
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Microchip Technology Incorporat,MCHP,XNGS,XNGS,US5950171042,595017104,2592174
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Ross Stores Inc,ROST,XNGS,XNGS,US7782961038,778296103,2746711
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Exelon Co,EXC,XNGS,XNGS,US30161N1019,30161N101,2670519
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Expeditors International Of Was,EXPD,XNGS,XNGS,US3021301094,302130109,2325507
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Dentsply Sirona Inc,XRAY,BATS,XNGS,US24906P1093,24906P109,BYNPPC6
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Adobe Systems Inc Adobe System Ord Shs,0R2Y,XLON,XLOM,US00724F1012,00724F101,B0YLL83
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Regeneron Pharmaceuticals,REGN,XNGS,XNGS,US75886F1075,75886F107,2730190
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Csx Corp,CSX,XNGS,XNGS,US1264081035,126408103,2160753
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Advanced Micro Devices Inc,AMD,BATS,XNGS,US0079031078,007903107,2007849
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Oreilly Automotive Inc Oreilly Automotive Ord Shs,0KAB,XLON,XLOM,US67103H1077,67103H107,BYZHB33
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Amazon Com Inc,AMZN,XNGS,XNGS,US0231351067,023135106,2000019
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Oreilly Automotive Inc,ORLY,XNGS,XNGS,US67103H1077,67103H107,B65LWX6
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Ebay Inc,EBAY,BATS,XNGS,US2786421030,278642103,2293819
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Tesla Inc,TSLA,BATS,XNGS,US88160R1014,88160R101,B616C79
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Advanced Micro Devices Inc,AMD,XNGS,XNGS,US0079031078,007903107,2007849
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Henry Schein Inc,HSIC,XNGS,XNGS,US8064071025,806407102,2416962
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Copart Inc,CPRT,BATS,XNGS,US2172041061,217204106,2208073
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Electronic Arts Inc,EA,BATS,XNGS,US2855121099,285512109,2310194
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Wynn Resorts Ltd,WYNN,BATS,XNGS,US9831341071,983134107,2963811
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Western Digital Cp,WDC,XNGS,XNGS,US9581021055,958102105,2954699
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Paypal Holdings Inc,PYPL,BATS,XNGS,US70450Y1038,,BYW36M8
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Monster Beverage Corp,MNST,BATS,XNGS,US61174X1090,61174X109,BZ07BW4
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Nvidia Corp,NVDA,BATS,XNGS,US67066G1040,67066G104,2379504
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Take Two Interactive Software,TTWO,XNGS,XNGS,US8740541094,874054109,2122117
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Lam Research Co,LRCX,XNGS,XNGS,US5128071082,512807108,2502247
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Dexcom Inc,DXCM,XNGS,XNGS,US2521311074,252131107,B0796X4
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Align Technology Inc,ALGN,BATS,XNGS,US0162551016,016255101,2679204
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Charter Communications Inc Charter Communications Ord Shs Class A,0HW4,XLON,XLOM,US16119P1084,16119P108,BYZHHL3
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Old Dominion Freight Line Inc Old Dominion Freight Line Ord Shs,0A7P,XLON,XLOM,US6795801009,679580100,BN92WV2
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Verisign,VRSN,BATS,XNGS,US92343E1029,,2142922
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Pepsico Inc,PEP,XNGS,XNGS,US7134481081,713448108,2681511
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",American Airlines Gp,AAL,XNGS,XNGS,US02376R1023,02376R102,BCV7KT2
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Keurig Dr Pepper Inc,KDP,XNGS,XNGS,US49271V1008,49271V100,BD3W133
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Ansys Inc Ansys Ord Shs,0HG3,XLON,XLOM,US03662Q1058,03662Q105,BYZHDY8
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Cintas Corp Cintas Ord Shs,0HYJ,XLON,XLOM,US1729081059,172908105,B0Z88H1
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Citrix Systems Inc,CTXS,XNGS,XNGS,US1773761002,177376100,2182553
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Analog Devices Inc Analog Devices Ord Shs,0HFN,XLON,XLOM,US0326541051,032654105,BYZHDW6
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Synopsys Inc,SNPS,XNGS,XNGS,US8716071076,871607107,2867719
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Skyworks Solutions Inc,SWKS,XNGS,XNGS,US83088M1027,83088M102,2961053
+"['Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Illumina Inc,ILMN,BATS,XNGS,US4523271090,452327109,2613990
+"['Dow Jones', 'Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Honeywell International,HON,XNGS,XNGS,US4385161066,438516106,2020459
+"['Dow Jones', 'Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Cisco Systems,CSCO,XNGS,XNGS,US17275R1023,17275R102,2198163
+"['Dow Jones', 'Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Intel Co,INTC,XNGS,XNGS,US4581401001,458140100,2463247
+"['Dow Jones', 'Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Walgreens Boots Alliance,WBA,XNGS,XNGS,US9314271084,931427108,BTN1Y44
+"['Dow Jones', 'Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Intel Corp,INTC,BATS,XNGS,US4581401001,458140100,2463247
+"['Aex 25', 'Euro Stoxx 50', 'Euro Stoxx 600', 'Nasdaq 100', 'Nasdaq Composite']",Asml Holding Nv,ASMLa,CHIX,XAMS,NL0010273215,N07059202,B929F46
+"['Dow Jones', 'Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Apple Inc,AAPL,BATS,XNGS,US0378331005,037833100,2046251
+"['Dow Jones', 'Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Amgen Inc,AMGN,XNGS,XNGS,US0311621009,031162100,2023607
+"['Dow Jones', 'Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Honeywell International Incorporated Com Stk Usd1,HON,XLON,XLON,US4385161066,438516106,0021216
+"['Dow Jones', 'Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Walgreens Boots Alliance Inc,WBA,BATS,XNGS,US9314271084,931427108,BTN1Y44
+"['Dow Jones', 'Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Apple Inc,AAPL,XNGS,XNGS,US0378331005,037833100,2046251
+"['Dow Jones', 'Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Microsoft Corp,MSFT,BATS,XNGS,US5949181045,594918104,2588173
+"['Dow Jones', 'Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Microsoft Co,MSFT,XNGS,XNGS,US5949181045,594918104,2588173
+"['Dow Jones', 'Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Amgen Inc,AMGN,BATS,XNGS,US0311621009,031162100,2023607
+"['Dow Jones', 'Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Honeywell International Inc,HON,BATS,XNGS,US4385161066,438516106,2020459
+"['Dow Jones', 'Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Cisco Systems Inc,CSCO,BATS,XNGS,US17275R1023,17275R102,2198163
+"['Aex 25', 'Euro Stoxx 50', 'Euro Stoxx 600', 'Nasdaq 100', 'Nasdaq Composite']",Asml Holding NV,ASML,XAMS,XAMS,NL0010273215,N07059202,B929F46
+"['Euro Stoxx 600', 'Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Automatic Data Processing Inc Automatic Data Processing Ord Shs,0HJI,XLON,XLOM,US0530151036,053015103,BDDXNH4
+"['Euro Stoxx 600', 'Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Automatic Data Processing,ADP,XNGS,XNGS,US0530151036,053015103,2065308
+"['Euro Stoxx 600', 'Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Aeroports De Paris Sa,ADP,XPAR,XPAR,FR0010340141,F00882104,B164FY1
+"['Euro Stoxx 600', 'Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Aeroports De Paris,ADPp,CHIX,XPAR,FR0010340141,F00882104,B164FY1
+"['Euro Stoxx 600', 'Nasdaq 100', 'Nasdaq Composite', 'Russell 1000', 'Russell 3000', 'Snp 500']",Automatic Data Processing Inc,ADP,BATS,XNGS,US0530151036,053015103,2065308
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Middlesex Water Co,MSEX,XNGS,XNGS,US5966801087,596680108,2589466
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Amerco,UHAL,BATS,XNGS,US0235861004,023586100,2028174
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Sotera Health Co,SHC,BATS,XNGS,US83601L1026,83601L102,BNKVRZ7
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Strategic Education Inc,STRA,BATS,XNGS,US86272C1036,86272C103,BGGJFV8
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Umb Financial Corp,UMBF,BATS,XNGS,US9027881088,902788108,2918510
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Amdocs Ltd,DOX,XNGS,XNGS,GB0022569080,G02602103,2256908
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Frontier Group Holdings Inc,ULCC,XNGS,XNGS,US35909R1086,35909R108,BFMKYK0
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Pacific Biosciences California Inc,PACB,BATS,XNGS,US69404D1081,69404D108,B4N8MH9
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Pacira Biosciences Inc,PCRX,XNGS,XNGS,US6951271005,695127100,B3X26D8
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Commvault Systems Inc,CVLT,BATS,XNGS,US2041661024,204166102,B142B38
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Crocs Inc,CROX,XNGS,XNGS,US2270461096,227046109,B0T7Z62
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Acv Auctions Inc Cl A,ACVA,XNGS,XNGS,US00091G1040,00091G104,BMFPJK6
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Exp World Holdings Inc,EXPI,BATS,XNMS,US30212W1009,30212W100,BDH2902
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Tandem Diabetes Care Inc,TNDM,BATS,XNMS,US8753722037,875372203,BF3W461
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Enact Holdings Inc,ACT,XNGS,XNGS,US29249E1091,,BNZFTG9
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Cvent Holding Corp,CVT,BATS,XNMS,US1266771039,126677103,BMGK502
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Pegasystems Inc,PEGA,BATS,XNGS,US7055731035,705573103,2675860
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",SsC Technologies Holdings Inc,SSNC,BATS,XNGS,US78467J1007,,B58YSC6
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Thoughtworks Hldg Inc,TWKS,BATS,XNGS,US88546E1055,,BMYR6Y6
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Casella Waste Systems,CWST,BATS,XNGS,US1474481041,147448104,2120490
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Organogenesis Holdings Inc Cl A,ORGO,XNCM,XNCM,US68621F1021,68621F102,BF2KYH7
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Ingles Markets Inc Cl A,IMKTA,XNGS,XNGS,US4570301048,457030104,2460550
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Sana Biotechnology Inc,SANA,BATS,XNGS,US7995661045,799566104,BMFJJ97
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Opendoor Technologies Inc,OPEN,XNGS,XNGS,US6837121036,683712103,BL96T19
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Luminar Technologies Inc,LAZR,XNGS,XNGS,US5504241051,550424105,BNG96D6
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",MaddenSteven,SHOO,BATS,XNGS,US5562691080,556269108,2553911
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Ensign Group Inc,ENSG,BATS,XNGS,US29358P1012,29358P101,B1YWPP8
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Madrigal Pharmaceuticals Inc,MDGL,XNGS,XNGS,US5588681057,558868105,BD59BS7
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Steel Dynamics Inc,STLD,BATS,XNGS,US8581191009,858119100,2849472
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Caredx Inc,CDNA,BATS,XNMS,US14167L1035,14167L103,BP3YM74
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Centennial Resource Development Inc Centennial Resource Development Ord Shs,0HVD,XLON,XLOM,US15136A1025,15136A102,BG05RS3
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Xerox Holdings Corporation,XRX,BATS,XNGS,US98421M1062,98421M106,BJJD5G3
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Weatherford Intl Plc,WFRD,BATS,XNGS,IE00BLNN3691,G48833118,BLNN369
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Umpqua Holdings Co,UMPQ,XNGS,XNGS,US9042141039,904214103,2484389
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Roku Inc Roku Ord Shs Class A,0KXI,XLON,XLOM,US77543R1023,77543R102,BG05ZF6
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Firstcash Holdings Inc,FCFS,XNGS,XNGS,,33768G107,BMF5Q83
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Osi Systems Inc,OSIS,XNGS,XNGS,US6710441055,671044105,2111579
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Certara Inc,CERT,XNGS,XNGS,US15687V1098,15687V109,BM9GT61
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Affirm Hldgs Inc,AFRM,BATS,XNGS,US00827B1061,00827B106,BMF9NM8
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Appian Corp A,APPN,XNMS,XNMS,US03782L1017,03782L101,BYPBTB9
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Rover Group Inc,ROVR,BATS,XNMS,US77936F1030,77936F103,BMZ3728
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Sleep Number Corporation,SNBR,BATS,XNGS,US83125X1037,83125X103,BF4HN46
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Columbia Financial,CLBK,XNGS,XNGS,US1976411033,197641103,BFMB9P3
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Sapiens International Corp Nv,SPNS,BATS,XNGS,KYG7T16G1039,,BFYZGX0
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Acv Auctions Inc,ACVA,BATS,XNGS,US00091G1040,00091G104,BMFPJK6
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Amedisys Inc,AMED,BATS,XNGS,US0234361089,023436108,2024332
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Mantech International Corp,MANT,BATS,XNGS,US5645631046,564563104,2825308
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Lumentum Holdings Inc,LITE,XNGS,XNGS,US55024U1097,55024U109,BYM9ZP2
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Sanderson Farm Inc,SAFM,BATS,XNGS,US8000131040,800013104,2774336
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Globalfoundries Inc,GFS,BATS,XNGS,KYG393871085,G39387108,BMW7F63
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",The Trade Desk Inc,TTD,BATS,XNMS,US88339J1051,,BD8FDD1
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Littelfuse Inc,LFUS,BATS,XNGS,US5370081045,537008104,2531832
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Viavi Solutions Inc,VIAV,XNGS,XNGS,US9255501051,925550105,BYXB201
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Mirati Therapeutics,MRTX,XNGS,XNGS,US60468T1051,,BBPK0J0
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Patterson Uti Energy Inc,PTEN,BATS,XNGS,US7034811015,703481101,2672537
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",10X Genomics Inc,TXG,XNGS,XNGS,US88025U1097,88025U109,BKS3RS7
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",National Instruments Corp,NATI,BATS,XNGS,US6365181022,636518102,2645078
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Sitime Corp,SITM,XNMS,XNMS,US82982T1060,,BKS48R6
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Lakeland Financial Corp,LKFN,BATS,XNGS,US5116561003,511656100,2537528
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",New Fortress Energy Inc,NFE,BATS,XNGS,US6443931000,644393100,BH3Z4P3
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Revance Therapeutics Inc,RVNC,BATS,XNMS,US7613301099,761330109,BJFSR99
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Patrick Industries Inc,PATK,XNGS,XNGS,US7033431039,703343103,2673154
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Phillips Edison Co Inc,PECO,XNGS,XNGS,US71844V2016,71844V201,BN48ZR2
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Xpel Inc,XPEL,BATS,XNCM,US98379L1008,98379L100,BJV2ZZ7
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Gogo Inc,GOGO,XNGS,XNGS,US38046C1099,38046C109,BB2C2R1
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Homestreet Inc,HMST,XNGS,XNGS,US43785V1026,43785V102,B4WHS46
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Amedisys Inc,AMED,XNGS,XNGS,US0234361089,023436108,2024332
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Mannkind Corporation,MNKD,BATS,XNMS,US56400P7069,56400P706,BF081J4
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Duck Creek Technologies Inc,DCT,BATS,XNGS,US2641201064,264120106,BMFLXR9
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Otter Tail Corp,OTTR,BATS,XNGS,US6896481032,689648103,2664103
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Harmony Biosciences Holdings Inc,HRMY,XNMS,XNMS,US4131971040,413197104,BKSGZN7
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Universal Display Corp Universal Display Ord Shs,0LJE,XLON,XLOM,US91347P1057,91347P105,BYZHGM7
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Bloomin Brands Inc,BLMN,BATS,XNGS,US0942351083,094235108,B847RJ0
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Alkermes Plc,ALKS,BATS,XNGS,IE00B56GVS15,G01767105,B3P6D26
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Enterprise Bancorp Inc,EBTC,BATS,XNGS,US2936681095,293668109,B00K2L4
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Acadia Pharmaceuticals Inc Acadia Pharmaceuticals Ord Shs,0A4W,XLON,XLOM,US0042251084,004225108,BKX8ZN8
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Aspen Technology Inc,AZPN,BATS,XNGS,US29109X1063,29109X106,BP2V812
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Ranger Oil Corp,ROCC,XNGS,XNGS,US70788V1026,70788V102,BZCD9S2
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Procept Biorobotics Corp,PRCT,BATS,XNMS,US74276L1052,74276L105,BMYRFV6
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Sage Therapeutic,SAGE,XNMS,XNMS,US78667J1088,,BP4GNK9
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Vicor Cp,VICR,XNGS,XNGS,US9258151029,925815102,2930774
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Myr Group Inc,MYRG,XNGS,XNGS,US55405W1045,55405W104,B3CLS18
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Coupa Software Inc,COUP,XNGS,XNGS,US22266L1061,22266L106,BD87XR1
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Zentalis Pharmaceuticals Inc,ZNTL,XNMS,XNMS,US98943L1070,98943L107,BMQ5T49
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Evo Payments Inc,EVOP,BATS,XNMS,US26927E1047,,BG5NSM3
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Sinclair Broadcast Group Inc,SBGI,BATS,XNGS,US8292261091,829226109,2799351
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Dropbox Inc,DBX,BATS,XNGS,US26210C1045,26210C104,BG0T321
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Cirrus Logic Inc Cirrus Logic Ord Shs,0HYI,XLON,XLOM,US1727551004,172755100,BG05RY9
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Pactiv Evergreen Inc,PTVE,BATS,XNGS,US69526K1051,69526K105,BN78784
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Freshpet Inc,FRPT,XNMS,XNMS,US3580391056,358039105,BS7K7M9
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Frontier Communications Parent Inc,FYBR,BATS,XNGS,US35909D1090,35909D109,BP0V999
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Halozyme Therapeutics,HALO,XNGS,XNGS,US40637H1095,40637H109,2975098
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",German American Bancorp,GABC,XNGS,XNGS,US3738651047,373865104,2502151
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Perficient Inc,PRFT,XNGS,XNGS,US71375U1016,71375U101,2442547
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Caredx Inc,CDNA,XNMS,XNMS,US14167L1035,14167L103,BP3YM74
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Ttm Technologies Inc,TTMI,BATS,XNGS,US87305R1095,87305R109,2635659
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Masimo Co,MASI,XNGS,XNGS,US5747951003,574795100,B1YWR63
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Safety Insurance Group,SAFT,XNGS,XNGS,US78648T1007,,2958538
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Werner Enterprises,WERN,XNGS,XNGS,US9507551086,950755108,2948852
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Allscripts Healthcare Solutns,MDRX,XNGS,XNGS,US01988P1084,01988P108,2710039
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Diodes Inc,DIOD,BATS,XNGS,US2545431015,254543101,2270500
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Corvel Cp,CRVL,XNGS,XNGS,US2210061097,221006109,2347277
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Sinclair Broadcast Group Inc A,SBGI,XNGS,XNGS,US8292261091,829226109,2799351
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",TownebankPortsmouth Virginia,TOWN,BATS,XNGS,US89214P1093,89214P109,B018PR4
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Coupa Software Incorporated,COUP,BATS,XNGS,US22266L1061,22266L106,BD87XR1
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Lattice Semiconductor Corp Lattice Semiconductor Ord Shs,0A6F,XLON,XLOM,US5184151042,518415104,BN92WR8
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Mongodb Inc Cl A,MDB,XNMS,XNMS,US60937P1066,60937P106,BF2FJ99
+"['Nasdaq 100', 'Russell 2000', 'Russell 3000']",Bed Bath And Beyond,BBBY,XNGS,XNGS,US0758961009,075896100,2085878
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Immunitybio Inc,IBRX,XNGS,XNGS,US45256X1037,45256X103,BNSP0B8
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Tripadvisor Inc Tripadvisor Ord Shs,0QZS,XLON,XLOM,US8969452015,896945201,BSJC994
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Axcelis Technologies Inc,ACLS,BATS,XNGS,US0545402085,054540208,BD420Q8
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Azenta,AZTA,XNGS,XNGS,US1143401024,114340102,2145460
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Veritex Hldgs Inc,VBTX,BATS,XNMS,US9234511080,923451108,BRCYYB7
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Cheesecake Factory Inc Cheesecake Factory Ord Shs,0A5B,XLON,XLOM,US1630721017,163072101,BMBSBH0
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Air Transport Services Group Inc,ATSG,BATS,XNGS,US00922R1059,00922R105,2938002
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Hain Celestial Group Inc,HAIN,XNGS,XNGS,US4052171000,405217100,2492337
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Xperi Holding Co,XPER,XNGS,XNGS,US98390M1036,98390M103,BMWP0C8
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Sanderson Farms In,SAFM,XNGS,XNGS,US8000131040,800013104,2774336
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Pricesmart Inc,PSMT,XNGS,XNGS,US7415111092,741511109,2092942
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Remitly Global Inc,RELY,XNGS,XNGS,US75960P1049,75960P104,BNZJHH8
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Csg Systems Intl Inc,CSGS,BATS,XNGS,US1263491094,126349109,2210885
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Open Lending Corp Cl A,LPRO,XNMS,XNMS,US68373J1043,,BMTD3M6
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Madrigal Pharmaceuticals Inc,MDGL,BATS,XNGS,US5588681057,558868105,BD59BS7
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Hub Group Inc,HUBG,BATS,XNGS,US4433201062,443320106,2407632
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Ssr Mining Inc,SSRM,BATS,XNGS,CA7847301032,784730103,BF7MQ72
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Royalty Pharma Plc,RPRX,BATS,XNGS,GB00BMVP7Y09,G7709Q104,BMVP7Y0
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Pra Group Inc,PRAA,BATS,XNGS,US69354N1063,69354N106,BSHZ3P9
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Tusimple Holdings Inc Cl A,TSP,XNGS,XNGS,US90089L1089,90089L108,BKVD041
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Travere Therapeutics Inc,TVTX,XNMS,XNMS,US89422G1076,89422G107,BLFGJD5
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Simply Good Foods Company,SMPL,BATS,XNCM,US82900L1026,82900L102,BF27XF9
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Reynolds Consumer Products Inc,REYN,XNGS,XNGS,US76171L1061,76171L106,BKV9674
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Nextgen Healthcare Inc,NXGN,XNGS,XNGS,US65343C1027,65343C102,BF5L3D6
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Extreme Networks,EXTR,BATS,XNGS,US30226D1063,30226D106,2407052
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Trustmark Co,TRMK,XNGS,XNGS,US8984021027,898402102,2340210
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Universal Logistics Hldgs,ULH,XNGS,XNGS,US91388P1057,91388P105,B066PX9
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Nuvasive Inc,NUVA,BATS,XNGS,US6707041058,670704105,B00GJC2
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",First Hawaiian Inc,FHB,XNGS,XNGS,US32051X1081,32051X108,BDC6HG1
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Middleby Corp,MIDD,BATS,XNGS,US5962781010,596278101,2590930
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Nv5 Global In,NVEE,BATS,XNCM,US62945V1098,62945V109,BF5ZVB2
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Cytek Biosciences Inc,CTKB,BATS,XNGS,US23285D1090,23285D109,BP0TJS2
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Crocs Inc,CROX,BATS,XNGS,US2270461096,227046109,B0T7Z62
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Potlatchdeltic Corp,PCH,XNGS,XNGS,US7376301039,737630103,B0XXJN1
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Covetrus Inc,CVET,XNGS,XNGS,US22304C1009,22304C100,BHZSB82
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Coca-Cola Consolidated Inc,COKE,BATS,XNGS,US1910981026,191098102,2206721
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Draftkings Inc A -0001,IK1,XETR,XETR,US26142V1052,26142V105,BN7SWG7
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Twist Bioscience Corp,TWST,XNGS,XNGS,US90184D1000,90184D100,BGKG6G7
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Marten Transport L,MRTN,XNGS,XNGS,US5730751089,573075108,2568357
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Ufp Industries Inc,UFPI,XNGS,XNGS,US90278Q1085,90278Q108,BMQ60Q1
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Encore Capital Group Inc,ECPG,BATS,XNGS,US2925541029,292554102,2443078
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Insulet Corporation,PODD,BATS,XNGS,US45784P1012,45784P101,B1XGNW4
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Celsius Holdings Inc,CELH,BATS,XNCM,US15118V2079,15118V207,B19HX21
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Vertex Energy Inc,VTNR,BATS,XNCM,US92534K1079,92534K107,B02PH34
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Avid Bioservices,CDMO,XNCM,XNCM,US05368M1062,05368M106,BFMZ4W7
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Silicon Laboratories,SLAB,BATS,XNGS,US8269191024,826919102,2568131
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Nextgen Healthcare Inc,NXGN,BATS,XNGS,US65343C1027,65343C102,BF5L3D6
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Northwestern Corporation,NWE,BATS,XNGS,US6680743050,668074305,B03PGL4
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Frontier Group Hldgs Inc,ULCC,BATS,XNGS,US35909R1086,35909R108,BFMKYK0
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Fibrogen Inc Cs,FGEN,XNGS,XNGS,US31572Q8087,31572Q808,BSDRYR8
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Natera Inc,NTRA,BATS,XNGS,US6323071042,632307104,BYQRG48
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Maxlinear Inc,MXL,XNGS,XNGS,US57776J1007,,B3RDWC8
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Grand Canyon Education,LOPE,BATS,XNGS,US38526M1062,38526M106,B3F1XM1
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Enact Hldgs Inc,ACT,BATS,XNGS,US29249E1091,,BNZFTG9
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Myr Grp Inc,MYRG,BATS,XNGS,US55405W1045,55405W104,B3CLS18
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Array Technologies Inc,ARRY,BATS,XNMS,US04271T1007,,BLBLMD5
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Omnicell Inc,OMCL,XNGS,XNGS,US68213N1090,68213N109,2789523
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Shockwave Medical Inc,SWAV,XNGS,XNGS,US82489T1043,,BHLNZ89
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Tripadvisor Inc,TRIP,XNGS,XNGS,US8969452015,896945201,B6ZC3N6
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Duolingo Inc,DUOL,BATS,XNGS,US26603R1068,26603R106,BMCM6P4
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Arvinas Inc,ARVN,BATS,XNGS,US04335A1051,04335A105,BDZ30Q0
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Encore Capital Group,ECPG,XNGS,XNGS,US2925541029,292554102,2443078
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Fuelcell Energy Inc,FCEL,BATS,XNMS,US35952H6018,35952H601,BK6S6J8
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Scripps Ew Company,SSP,BATS,XNGS,US8110544025,811054402,2862532
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Magnite Inc,MGNI,XNGS,XNGS,US55955D1000,55955D100,BLPNRR6
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Columbia Financial Inc,CLBK,BATS,XNGS,US1976411033,197641103,BFMB9P3
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Avidxchange Holdings Inc,AVDX,XNGS,XNGS,US05368X1028,05368X102,BLNMFN7
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Five Below Inc,FIVE,BATS,XNGS,US33829M1018,33829M101,B85KFY9
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Redfin Corporation,RDFN,BATS,XNGS,US75737F1084,75737F108,BF1BDQ3
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Sarepta Therapeutics Inc,SRPT,XNGS,XNGS,US8036071004,803607100,B8DPDT7
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Commvault Systems Inc Commvault Systems Ord Shs,0A8N,XLON,XLOM,US2041661024,204166102,BMF1JD7
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Revance Therapeutics,RVNC,XNMS,XNMS,US7613301099,761330109,BJFSR99
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",G-Iii Apparel Group Ltd,GIII,XNGS,XNGS,US36237H1014,36237H101,2369721
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Seacoast Banking Cp,SBCF,XNGS,XNGS,US8117078019,811707801,BH65L93
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Consolidated Communications Hl,CNSL,XNGS,XNGS,US2090341072,209034107,B07LSQ7
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Commscope Holdings Co Inc,COMM,BATS,XNGS,US20337X1090,20337X109,BFRBX34
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Nikola Corporation,NKLA,BATS,XNGS,US6541101050,654110105,BMBM6H7
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Celsius Hldgs Inc,CELH,XNCM,XNCM,US15118V2079,15118V207,B19HX21
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Enanta Pharmaceuticals Inc,ENTA,BATS,XNGS,US29251M1062,29251M106,B9L5200
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Hillman Solutions Corp,HLMN,XNMS,XNMS,US4316361090,431636109,BNT8W21
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Morningstar Inc,MORN,XNGS,XNGS,US6177001095,617700109,B081VR8
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Franklin Electric Co Inc,FELE,XNGS,XNGS,US3535141028,353514102,2350383
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Bok Financial Co,BOKF,XNGS,XNGS,US05561Q2012,05561Q201,2109091
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Sandy Spring Bancorp Inc,SASR,XNGS,XNGS,US8003631038,800363103,2148254
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Merit Medical Systems,MMSI,BATS,XNGS,US5898891040,589889104,2580555
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Service Properties Trust,SVC,BATS,XNGS,US81761L1026,81761L102,BKRT1C8
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",East West Bancorp Inc,EWBC,XNGS,XNGS,US27579R1041,27579R104,2487407
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Day One Biopharmaceuticals Inc,DAWN,BATS,XNGS,US23954D1090,23954D109,BLB0YH0
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Alignment Healthcare Inc,ALHC,XNGS,XNGS,US01625V1044,01625V104,BNNLSZ1
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Mandiant Inc,MNDT,BATS,XNGS,US5626621065,562662106,BPH0580
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Allegiant Travel Company,ALGT,BATS,XNGS,US01748X1028,01748X102,B15M2C3
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Matthews Intl Corp,MATW,BATS,XNGS,US5771281012,577128101,2568090
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Adaptive Biotechnologies Corp,ADPT,XNGS,XNGS,US00650F1093,00650F109,BJ5FZ74
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Credit Acceptance Corporation,CACC,BATS,XNGS,US2253101016,225310101,2232050
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Dorman Products In,DORM,BATS,XNGS,US2582781009,258278100,2718594
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Vertex Energy,VTNR,XNCM,XNCM,US92534K1079,92534K107,B02PH34
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Addus Homecare Corp,ADUS,BATS,XNGS,US0067391062,006739106,B55BN47
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Exlservice Holdings,EXLS,XNGS,XNGS,US3020811044,302081104,B07LST0
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Uniti Group Inc,UNIT,BATS,XNGS,US91325V1089,91325V108,BD6VBR1
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Confluent Inc Cl A,CFLT,XNGS,XNGS,US20717M1036,20717M103,BNXH3Z4
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Cognex Corp,CGNX,BATS,XNGS,US1924221039,192422103,2208288
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Newmark Group Inc Cl A,NMRK,XNGS,XNGS,US65158N1028,65158N102,BF1Q6P8
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",10X Genomics Inc 10X Genomics Ord Shs Class A,0A88,XLON,XLOM,US88025U1097,88025U109,BNTJ8J3
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Academy Sports Outdoors Inc,ASO,BATS,XNGS,US00402L1070,00402L107,BN7K304
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Palomar Holdings Inc,PLMR,BATS,XNGS,US69753M1053,69753M105,BJYLZK6
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Costar Group Inc,CSGP,BATS,XNGS,US22160N1090,22160N109,2262864
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Novavax Inc,NVAX,BATS,XNGS,US6700024010,670002401,BJDQXG4
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Procept Biorobotics Corp,PRCT,XNMS,XNMS,US74276L1052,74276L105,BMYRFV6
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Balchem Cp,BCPC,XNGS,XNGS,US0576652004,057665200,2072074
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",City Hldg Co,CHCO,BATS,XNGS,US1778351056,177835105,2161778
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Chefs Warehouse Inc,CHEF,BATS,XNGS,US1630861011,163086101,B63RTD5
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Hope Bancorp,HOPE,XNGS,XNGS,US43940T1097,,BYN87K7
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Bridgebio Pharma Inc,BBIO,XNGS,XNGS,US10806X1028,10806X102,BK1KWG8
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Nikola Corp,NKLA,XNGS,XNGS,US6541101050,654110105,BMBM6H7
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",International Bancshares Corp,IBOC,BATS,XNGS,US4590441030,459044103,2243911
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Olaplex Hldgs Inc,OLPX,BATS,XNGS,US6793691089,679369108,BNKJ933
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Fate Therapeutics,FATE,BATS,XNMS,US31189P1021,31189P102,BCZS820
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Everbridge Inc,EVBG,BATS,XNMS,US29978A1043,29978A104,BYY5ZB4
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Cytokinetics Inc,CYTK,XNGS,XNGS,US23282W6057,23282W605,BBBSBJ5
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Lyell Immunopharma Inc,LYEL,XNGS,XNGS,US55083R1041,55083R104,BN6MB18
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Biocryst Pharmaceuticals Inc,BCRX,BATS,XNGS,US09058V1035,09058V103,2100362
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Academy Sports And Outdoors In,ASO,XNGS,XNGS,US00402L1070,00402L107,BN7K304
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Appfolio Inc,APPF,BATS,XNMS,US03783C1009,03783C100,BYN7H48
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Aci Worldwide Inc,ACIW,BATS,XNGS,US0044981019,004498101,2889155
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Sarepta Therapeutics Inc,SRPT,BATS,XNGS,US8036071004,803607100,B8DPDT7
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Interdigital Inc Interdigital Ord Shs,0U3Q,XLON,XLOM,US45867G1013,45867G101,BYVR267
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Vonage Holdings,VG,XNGS,XNGS,US92886T2015,,B15JLG1
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Shockwave Medical Inc,SWAV,BATS,XNGS,US82489T1043,,BHLNZ89
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Dynavax Technologies Corp,DVAX,BATS,XNCM,US2681582019,268158201,BRJZSK0
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Mesa Laboratories Inc,MLAB,XNGS,XNGS,US59064R1095,59064R109,2553814
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Axsome Therapeutics Inc,AXSM,BATS,XNMS,US05464T1043,,BYZR4X4
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Centennial Resource Development Inc A,CDEV,XNCM,XNCM,US15136A1025,15136A102,BYM4Z79
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Nmi Holdings Inc,NMIH,BATS,XNMS,US6292093050,629209305,BGDW5G5
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Matthews International Corp Cl A,MATW,XNGS,XNGS,US5771281012,577128101,2568090
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Northwest Bancshares Inc,NWBI,XNGS,XNGS,US6673401039,667340103,B523Z73
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Techtarget Inc,TTGT,BATS,XNMS,US87874R1005,87874R100,B1XH822
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Amkor Technology,AMKR,XNGS,XNGS,US0316521006,031652100,2242929
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Novanta Inc Novanta Ord Shs,0VAG,XLON,XLOM,CA67000B1040,67000B104,BG05NN0
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Microstrategy Inc,MSTR,XNGS,XNGS,US5949724083,594972408,2974329
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Sitime Corporation,SITM,BATS,XNMS,US82982T1060,,BKS48R6
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Wingstop Inc,WING,BATS,XNGS,US9741551033,974155103,BYYXHN4
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Axsome Therapeut,AXSM,XNMS,XNMS,US05464T1043,,BYZR4X4
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Eplus,PLUS,XNGS,XNGS,US2942681071,294268107,2597748
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Apollo Medical Holdings Inc,AMEH,BATS,XNCM,US03763A2078,03763A207,BX3SQS1
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Lgi Homes Inc,LGIH,BATS,XNGS,US50187T1060,,BG3G1B4
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Stepstone Group Inc Cl A,STEP,XNGS,XNGS,US85914M1071,85914M107,BLFDXF6
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Republic Bancorp Inc,RBCAA,BATS,XNGS,US7602812049,760281204,2277114
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Gentherm Inc,THRM,BATS,XNGS,US37253A1034,37253A103,B8JFD24
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Mcgrath Rentcorp,MGRC,XNGS,XNGS,US5805891091,580589109,2551551
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Livanova Plc,LIVN,XNGS,XNGS,GB00BYMT0J19,G5509L101,BYMT0J1
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Ollies Bargain Outlet Hldgs Inc,OLLI,BATS,XNMS,US6811161099,681116109,BZ22B38
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Bruker Co,BRKR,XNGS,XNGS,US1167941087,116794108,2616137
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Cal-Maine Foods In,CALM,XNGS,XNGS,US1280302027,128030202,2158781
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Alnylam Pharmaceuticals Inc Alnylam Pharmaceuticals Ord Shs,0HD2,XLON,XLOM,US02043Q1076,02043Q107,BG05QM0
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Bruker Corporation,BRKR,BATS,XNGS,US1167941087,116794108,2616137
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Sps Commerce Inc,SPSC,BATS,XNGS,US78463M1071,78463M107,B57VWJ3
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Simply Good Foods Co,SMPL,XNCM,XNCM,US82900L1026,82900L102,BF27XF9
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Golden Entmt Inc,GDEN,BATS,XNMS,US3810131017,381013101,BYNH8R8
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Radius Global Infrastructure Inc,RADI,BATS,XNMS,US7504811032,750481103,BMHZYY3
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Sema4 Holdings Corp,SMFR,XNGS,XNGS,US81663L1017,81663L101,BN72YL8
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Monro Inc,MNRO,BATS,XNGS,US6102361010,610236101,2600088
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Rambus Inc,RMBS,BATS,XNGS,US7509171069,750917106,2721967
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Aci Worldwide Inc,ACIW,XNGS,XNGS,US0044981019,004498101,2889155
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",National Research Corp,NRC,XNGS,XNGS,US6373722023,637372202,B8W3QK4
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Monarch Casino Resort,MCRI,XNGS,XNGS,US6090271072,609027107,2599197
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Cassava Sciences Inc,SAVA,BATS,XNCM,US14817C1071,14817C107,BJVLKZ9
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Advanced Energy Industries,AEIS,XNGS,XNGS,US0079731008,007973100,2049175
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Erie Indemnity Co,ERIE,BATS,XNGS,US29530P1021,29530P102,2311711
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Sapiens International Corp Nv,SPNS,XNGS,XNGS,KYG7T16G1039,,BFYZGX0
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Integral Ad Science Holding Corp,IAS,BATS,XNGS,US45828L1089,45828L108,BP7L3L2
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Cyxtera Technologies Inc,CYXT,XNGS,XNGS,US23284C1027,23284C102,BKWHPJ2
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Stock Yards Bancorp Inc,SYBT,XNGS,XNGS,US8610251048,861025104,BLY2FB4
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Churchill Downs In,CHDN,XNGS,XNGS,US1714841087,171484108,2194105
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Sunpower Corp Sunpower Ord Shs,0R0V,XLON,XLOM,US8676524064,867652406,BSJC6Z9
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Vicor Corp,VICR,BATS,XNGS,US9258151029,925815102,2930774
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Lpl Financial Holdings,LPLA,XNGS,XNGS,US50212V1008,50212V100,B75JX34
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Grocery Outlet Holding Corp,GO,BATS,XNGS,US39874R1014,39874R101,BK1KWF7
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Urban Outfitters,URBN,XNGS,XNGS,US9170471026,917047102,2933438
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",World Acceptance Cp,WRLD,XNGS,XNGS,US9814191048,981419104,2981181
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Morningstar Inc,MORN,BATS,XNGS,US6177001095,617700109,B081VR8
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Lattice Semiconductor Corp,LSCC,XNGS,XNGS,US5184151042,518415104,2506658
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Chemocentryx Inc,CCXI,XNGS,XNGS,US16383L1061,16383L106,B6ZL968
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Texas Roadhouse Inc,TXRH,XNGS,XNGS,US8826811098,882681109,B033TJ7
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Golden Ocean Group Ltd,GOGLo,CHIX,XOSL,BMG396372051,G39637205,BDCHQL2
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Commerce Bancshares,CBSH,XNGS,XNGS,US2005251036,200525103,2213204
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Silgan Holdings Inc,SLGN,BATS,XNGS,US8270481091,827048109,2809324
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Palomar Holdings Inc,PLMR,XNGS,XNGS,US69753M1053,69753M105,BJYLZK6
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Pacific Premier Bancorp,PPBI,XNGS,XNGS,US69478X1054,69478X105,2767217
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Trico Bancshares,TCBK,XNGS,XNGS,US8960951064,896095106,2904133
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Five9 Inc,FIVN,BATS,XNMS,US3383071012,338307101,BKY7X18
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Tradeweb Markets Inc,TW,BATS,XNGS,US8926721064,892672106,BJXMVK2
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Amkor Technology Inc,AMKR,BATS,XNGS,US0316521006,031652100,2242929
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Icf International Inc,ICFI,XNGS,XNGS,US44925C1036,44925C103,B1FP363
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Dave Busters Entertainment,PLAY,XNGS,XNGS,US2383371091,238337109,B8SW166
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Canoo Inc,GOEV,XNGS,XNGS,US13803R1023,13803R102,BMH7568
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Caseys General Stores Inc,CASY,BATS,XNGS,US1475281036,147528103,2179414
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Eastern Bankshares Inc,EBC,BATS,XNGS,US27627N1054,27627N105,BMXL9H3
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Columbia Sportswear Co,COLM,XNGS,XNGS,US1985161066,198516106,2229126
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",1Life Healthcare Inc,ONEM,BATS,XNGS,US68269G1076,68269G107,BKMG1N5
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Fulgent Genetics,FLGT,XNMS,XNMS,US3596641098,359664109,BYQBFQ5
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Pacific Biosciences Of California,PACB,XNGS,XNGS,US69404D1081,69404D108,B4N8MH9
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Verra Mobility Corp Cl A,VRRM,XNCM,XNCM,US92511U1025,92511U102,BFXX5X8
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Eqrx Inc,EQRX,XNMS,XNMS,US26886C1071,26886C107,BP0WH76
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Ufp Industries Inc,UFPI,BATS,XNGS,US90278Q1085,90278Q108,BMQ60Q1
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Virtu Financial Cm A,VIRT,XNGS,XNGS,US9282541013,928254101,BWTVWD4
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Alignment Healthcare Inc,ALHC,BATS,XNGS,US01625V1044,01625V104,BNNLSZ1
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Verint Systems,VRNT,XNGS,XNGS,US92343X1000,92343X100,2849193
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Heartland Express,HTLD,XNGS,XNGS,US4223471040,422347104,2414018
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Mks Instruments Inc,MKSI,XNGS,XNGS,US55306N1046,55306N104,2404871
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",National Instruments Corp,NATI,XNGS,XNGS,US6365181022,636518102,2645078
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Ranger Oil Corporation,ROCC,BATS,XNGS,US70788V1026,70788V102,BZCD9S2
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Smart Global Holdings Inc,SGH,BATS,XNGS,KYG8232Y1017,,BYPBTG4
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Altair Engineering Inc,ALTR,BATS,XNGS,US0213691035,021369103,BD6D4Y5
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",National Research Corp,NRC,BATS,XNGS,US6373722023,637372202,B8W3QK4
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Cerence Inc,CRNC,XNGS,XNGS,US1567271093,156727109,BJNPYY6
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Ttec Holdings Inc,TTEC,BATS,XNGS,US89854H1023,89854H102,BF950B1
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Republic Bancorp Inc Ky,RBCAA,XNGS,XNGS,US7602812049,760281204,2277114
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Caseys General Stores Inc,CASY,XNGS,XNGS,US1475281036,147528103,2179414
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Concentrix Corp,CNXC,XNGS,XNGS,US20602D1019,20602D101,BNKVVY4
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Arrowhead Pharmaceuticals,ARWR,XNGS,XNGS,US04280A1007,04280A100,BYQBFJ8
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Scholastic Corp,SCHL,BATS,XNGS,US8070661058,807066105,2779234
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Pactiv Evergreen Inc,PTVE,XNGS,XNGS,US69526K1051,69526K105,BN78784
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Pacira Biosciences Inc,PCRX,BATS,XNGS,US6951271005,695127100,B3X26D8
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Quidelortho Corporation,QDEL,BATS,XNGS,US2197981051,219798105,BM9VY27
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Denali Therapeutics,DNLI,XNGS,XNGS,US24823R1059,24823R105,BD2B4V0
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Power Integrations,POWI,XNGS,XNGS,US7392761034,739276103,2133045
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Exponent Inc,EXPO,BATS,XNGS,US30214U1025,30214U102,2330318
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Diversey Holdings Ltd,DSEY,XNGS,XNGS,KYG289231030,G28923103,BNTJ2L3
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Patterson-Uti Energy,PTEN,XNGS,XNGS,US7034811015,703481101,2672537
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Avid Bioservices Inc,CDMO,BATS,XNCM,US05368M1062,05368M106,BFMZ4W7
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Lattice Semiconductor,LSCC,BATS,XNGS,US5184151042,518415104,2506658
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Definitive Healthcare Corp Cl A,DH,XNGS,XNGS,US24477E1038,,BMGSDK2
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",LegalzoomCom Inc,LZ,XNGS,XNGS,US52466B1035,52466B103,B82GC49
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Ambarella Inc,AMBA,XNGS,XNGS,KYG037AX1015,G037AX101,B7KH3G6
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Casella Waste Systems Inc Cl A,CWST,XNGS,XNGS,US1474481041,147448104,2120490
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Ultragenyx Pharmaceutical Inc,RARE,BATS,XNGS,US90400D1081,90400D108,BJ62Z18
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Exact Sciences Cor,EXAS,XNCM,XNCM,US30063P1057,30063P105,2719951
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Lpl Finl Hldgs Inc,LPLA,BATS,XNGS,US50212V1008,50212V100,B75JX34
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Infinera Co,INFN,XNGS,XNGS,US45667G1031,45667G103,B1YB5Y4
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Leo Holdings Corp Ii Cl A,LHC,XNYS,XNYS,KYG5463R1020,G5463R102,BKY4RD9
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",R1 Rcm,RCM,XNGS,XNGS,,,BP2S437
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Rent-A-Center Inc,RCII,XNGS,XNGS,US76009N1000,76009N100,2733092
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Encore Wire Corp,WIRE,BATS,XNGS,US2925621052,292562105,2273446
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Stepstone Group Inc,STEP,BATS,XNGS,US85914M1071,85914M107,BLFDXF6
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Amdocs Ltd,DOX,BATS,XNGS,GB0022569080,G02602103,2256908
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Cogent Communications Holdings Inc,CCOI,BATS,XNGS,US19239V3024,19239V302,B06RWD1
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Eqrx Inc,EQRX,BATS,XNMS,US26886C1071,26886C107,BP0WH76
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Affirm Holdings Inc Cl A,AFRM,XNGS,XNGS,US00827B1061,00827B106,BMF9NM8
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Commscope Holding Co Inc,COMM,XNGS,XNGS,US20337X1090,20337X109,BFRBX34
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Mge Energy Inc,MGEE,BATS,XNGS,US55277P1049,55277P104,2554163
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Middleby,MIDD,XNGS,XNGS,US5962781010,596278101,2590930
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Eagle Bancorp Inc,EGBN,BATS,XNCM,US2689481065,268948106,2648055
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Krispy Kreme Inc,DNUT,BATS,XNGS,US50101L1061,50101L106,BL97B49
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Magnite Inc,MGNI,BATS,XNGS,US55955D1000,55955D100,BLPNRR6
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Goodyear Tire Rubber Co,GT,XNGS,XNGS,US3825501014,382550101,2378200
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Aerovironment Inc,AVAV,BATS,XNGS,US0080731088,008073108,B1P5YY8
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Dynavax Technologies Co,DVAX,XNCM,XNCM,US2681582019,268158201,BRJZSK0
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Insight Enterprises,NSIT,XNGS,XNGS,US45765U1034,45765U103,2475060
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Entegris Inc,ENTG,BATS,XNGS,US29362U1043,29362U104,2599700
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Arcbest Co,ARCB,XNGS,XNGS,US03937C1053,03937C105,BLTFST7
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Cvent Hldg Corp,CVT,XNMS,XNMS,US1266771039,126677103,BMGK502
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Mks Instruments Inc,MKSI,BATS,XNGS,US55306N1046,55306N104,2404871
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Varonis Systems Inc,VRNS,BATS,XNGS,US9222801022,922280102,BJZ2ZR5
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Neogenomics,NEO,XNCM,XNCM,US64049M2098,64049M209,2598246
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Revolution Medicines Inc,RVMD,XNGS,XNGS,US76155X1000,76155X100,BL71K91
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Evo Payments Inc Evo Payments Ord Shs Class A,0YGU,XLON,XLOM,US26927E1047,,BF2HF31
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Otter Tail Co,OTTR,XNGS,XNGS,US6896481032,689648103,2664103
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Arvinas Inc,ARVN,XNGS,XNGS,US04335A1051,04335A105,BDZ30Q0
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Enovix Corp,ENVX,BATS,XNGS,US2935941078,293594107,BNNTCT7
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Sunrun Inc Sunrun Ord Shs,0A4S,XLON,XLOM,US86771W1053,86771W105,BM9CBM9
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Focus Financial Partners Inc Cl A,FOCS,XNGS,XNGS,US34417P1003,34417P100,BF7J7H0
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Formfactor,FORM,XNGS,XNGS,US3463751087,346375108,2891826
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Ngm Biopharmaceuticals Inc,NGM,BATS,XNGS,US62921N1054,62921N105,BJ1FD63
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Shyft Group Inc,SHYF,BATS,XNGS,US8256981031,825698103,BMYGGG5
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Mannkind Corp,MNKD,XNMS,XNMS,US56400P7069,56400P706,BF081J4
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Modivcare Inc,MODV,XNGS,XNGS,US60783X1046,60783X104,BNDL420
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Supernus Pharmaceuticals Inc,SUPN,BATS,XNMS,US8684591089,868459108,B72ZBG4
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Wd-40 Co,WDFC,BATS,XNGS,US9292361071,929236107,2944742
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",National Beverage Corp,FIZZ,XNGS,XNGS,US6350171061,635017106,2638625
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Lgi Homes,LGIH,XNGS,XNGS,US50187T1060,,BG3G1B4
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Freshpet Inc,FRPT,BATS,XNMS,US3580391056,358039105,BS7K7M9
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Super Micro Computer Inc,SMCI,XNGS,XNGS,US86800U1043,86800U104,B1VQR35
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Relay Therapeutics Inc,RLAY,XNMS,XNMS,US75943R1023,75943R102,BN2R582
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Global Blood Therapeutics Inc,GBT,BATS,XNGS,US37890U1088,37890U108,BZ05388
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Nmi Holdings Inc,NMIH,XNMS,XNMS,US6292093050,629209305,BGDW5G5
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Adapthealth Corp,AHCO,BATS,XNCM,US00653Q1022,00653Q102,BKDRF35
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Live Oak Bancshares Inc,LOB,XNGS,XNGS,US53803X1054,53803X105,BYN5Z59
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Immunitybio Inc,IBRX,BATS,XNGS,US45256X1037,45256X103,BNSP0B8
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Sunpower Co,SPWR,XNGS,XNGS,US8676524064,867652406,B59DK93
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Interactive Brokers Group Inc,IBKR,BATS,XNGS,US45841N1072,45841N107,B1WT4X2
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Blackline Inc,BL,XNGS,XNGS,US09239B1098,09239B109,BD3WZS6
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Proassurance Cp,PRA,XNYS,XNYS,US74267C1062,74267C106,2612737
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Csg Systems Intl,CSGS,XNGS,XNGS,US1263491094,126349109,2210885
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Trade Desk,TTD,XNMS,XNMS,US88339J1051,,BD8FDD1
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Opko Health Inc,OPK,XNGS,XNGS,US68375N1037,68375N103,2115902
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Aaon Inc,AAON,BATS,XNGS,US0003602069,000360206,2268130
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Columbus Mckinnon Corporation,CMCO,BATS,XNGS,US1993331057,199333105,2211071
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Wd-40 Co,WDFC,XNGS,XNGS,US9292361071,929236107,2944742
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Reynolds Consumer Products Inc,REYN,BATS,XNGS,US76171L1061,76171L106,BKV9674
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Aurinia Pharmaceuticals Inc Aurinia Pharmaceuticals Ord Shs,0UJF,XLON,XLOM,CA05156V1022,05156V102,BD6T982
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Aerovironment Inc,AVAV,XNGS,XNGS,US0080731088,008073108,B1P5YY8
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Paylocity Holding Corporation,PCTY,BATS,XNGS,US70438V1061,70438V106,BKM4N88
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Axonics Inc,AXNX,BATS,XNGS,US05465P1012,05465P101,BGDQ8B3
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Ssr Mining Inc Ssr Mining Ord Shs,0VGE,XLON,XLOM,CA7847301032,784730103,BG05P01
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Sonos Inc,SONO,BATS,XNGS,US83570H1086,83570H108,BYWPZW7
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Virtu Financial Inc,VIRT,BATS,XNGS,US9282541013,928254101,BWTVWD4
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Royal Gold Inc,RGLD,BATS,XNGS,US7802871084,780287108,2755706
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Agios Pharmaceuticals Inc,AGIO,XNGS,XNGS,US00847X1046,00847X104,BCBVTX1
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Xencor,XNCR,XNMS,XNMS,US98401F1057,98401F105,BGCYWN8
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Huron Consulting Group Inc,HURN,BATS,XNGS,US4474621020,447462102,B018V76
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Roku Inc,ROKU,BATS,XNGS,US77543R1023,77543R102,BZ1LFG7
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Ptc Therapeutics Inc,PTCT,BATS,XNGS,US69366J2006,,B17VCN9
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Sprouts Farmers Markets Inc,SFM,BATS,XNGS,US85208M1027,85208M102,BCGCR79
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Mr Cooper Group Inc,COOP,XNCM,XNCM,US62482R1077,62482R107,BGHKHS1
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Franklin Electric Co Inc,FELE,BATS,XNGS,US3535141028,353514102,2350383
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Sps Commerce Inc,SPSC,XNGS,XNGS,US78463M1071,78463M107,B57VWJ3
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Day One Biopharmaceuticals Inc,DAWN,XNGS,XNGS,US23954D1090,23954D109,BLB0YH0
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Middlesex Water Co,MSEX,BATS,XNGS,US5966801087,596680108,2589466
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Integra Lifesciences Holdings Co,IART,XNGS,XNGS,US4579852082,457985208,2248693
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Definitive Healthcare Corp,DH,BATS,XNGS,US24477E1038,,BMGSDK2
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Pra Group,PRAA,XNGS,XNGS,US69354N1063,69354N106,BSHZ3P9
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Ultra Clean Holdings Inc,UCTT,XNGS,XNGS,US90385V1070,90385V107,B00G0F2
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Osi Systems Inc,OSIS,BATS,XNGS,US6710441055,671044105,2111579
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Semtech Corp,SMTC,BATS,XNGS,US8168501018,816850101,2795542
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Cerevel Therapeutics Hldg Inc,CERE,XNCM,XNCM,US15678U1280,15678U128,BMVMJ12
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Monarch Casino Resort,MCRI,BATS,XNGS,US6090271072,609027107,2599197
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Liveperson Inc,LPSN,XNGS,XNGS,US5381461012,538146101,2577052
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Varonis Systems Inc,VRNS,XNGS,XNGS,US9222801022,922280102,BJZ2ZR5
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Landstar Systems,LSTR,XNGS,XNGS,US5150981018,515098101,2503994
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Opendoor Technologies Inc,OPEN,BATS,XNGS,US6837121036,683712103,BL96T19
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Schrodinger Inc,SDGR,XNGS,XNGS,US80810D1037,80810D103,BKV28S8
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Lyell Immunopharma Inc,LYEL,BATS,XNGS,US55083R1041,55083R104,BN6MB18
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Proassurance Corp,PRA,BATS,XNYS,US74267C1062,74267C106,2612737
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Columbia Sportswear Co,COLM,BATS,XNGS,US1985161066,198516106,2229126
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Nv5 Global In,NVEE,XNCM,XNCM,US62945V1098,62945V109,BF5ZVB2
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Thoughtworks Holding,TWKS,XNGS,XNGS,US88546E1055,,BMYR6Y6
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Exact Sciences Corp,EXAS,BATS,XNCM,US30063P1057,30063P105,2719951
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Upwork Inc,UPWK,XNGS,XNGS,US91688F1049,91688F104,BGRFWV4
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Cvb Financial Corp,CVBF,XNGS,XNGS,US1266001056,126600105,2160645
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Ttec Holdings Inc,TTEC,XNGS,XNGS,US89854H1023,89854H102,BF950B1
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Sun Country Airlines Holdings Inc,SNCY,XNGS,XNGS,US8666831057,866683105,BM8TFC9
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Cracker Barrel Old Country Store,CBRL,BATS,XNGS,US22410J1060,,2231091
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Wingstop Inc,WING,XNGS,XNGS,US9741551033,974155103,BYYXHN4
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Ss38C Technologies Holdings Inc Ss And C Technologies Holdings Ord Shs,0L1G,XLON,XLOM,US78467J1007,,BG05ZK1
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Repligen Corp,RGEN,BATS,XNGS,US7599161095,759916109,2731654
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Roku Inc Cl A,ROKU,XNGS,XNGS,US77543R1023,77543R102,BZ1LFG7
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Ncino Inc,NCNO,BATS,XNGS,US63947X1019,63947X101,BMC8TD1
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Mgp Ingredients Inc New,MGPI,BATS,XNGS,US55303J1060,,B6ZJTH3
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Ultra Clean Hldgs Inc,UCTT,BATS,XNGS,US90385V1070,90385V107,B00G0F2
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Diversey Hldgs Ltd,DSEY,BATS,XNGS,KYG289231030,G28923103,BNTJ2L3
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Overstock Com Inc Del,OSTK,BATS,XNMS,US6903701018,690370101,2855930
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Nutanix Inc,NTNX,BATS,XNGS,US67059N1081,67059N108,BYQBFT8
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Royal Gold Inc Royal Gold Ord Shs,0KXS,XLON,XLOM,US7802871084,780287108,BDDXTX2
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Stoneco Ltd,STNE,BATS,XNGS,KYG851581069,G85158106,BGKG6M3
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",OverstockCom Inc Overstock Com Ord Shs,0KDU,XLON,XLOM,US6903701018,690370101,BDDXSX5
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Sunrun Inc,RUN,XNGS,XNGS,US86771W1053,86771W105,BYXB1Y8
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Beyond Meat Inc,BYND,BATS,XNGS,US08862E1091,,BJ1FDK7
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Cryoport Inc,CYRX,XNCM,XNCM,US2290503075,229050307,BY2ZKK0
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Sprouts Farmers Markets,SFM,XNGS,XNGS,US85208M1027,85208M102,BCGCR79
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Bloomin Brands Inc,BLMN,XNGS,XNGS,US0942351083,094235108,B847RJ0
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Syneos Health Inc,SYNH,BATS,XNGS,US87166B1026,87166B102,BFMZ4V6
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",AlarmCom Holdings Inc,ALRM,XNGS,XNGS,US0116421050,011642105,BYN7H26
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Playtika Hldg Corp,PLTK,BATS,XNGS,US72815L1070,72815L107,BNRQKQ7
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Columbia Banking Systems Inc,COLB,BATS,XNGS,US1972361026,197236102,2176608
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",G-Iii Apparel Group,GIII,BATS,XNGS,US36237H1014,36237H101,2369721
+"['Nasdaq 100', 'Russell 2000', 'Russell 3000']",Bed Bath And Beyond,BBBY,BATS,XNGS,US0758961009,075896100,2085878
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Exelixis Inc,EXEL,BATS,XNGS,US30161Q1040,30161Q104,2576941
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Petco Health Wellness Co Inc,WOOF,BATS,XNGS,US71601V1052,71601V105,BNRQM83
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Vonage Hldgs Corporation,VG,BATS,XNGS,US92886T2015,,B15JLG1
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",First Financial Bancorp,FFBC,BATS,XNGS,US3202091092,320209109,2352806
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Golden Entmt,GDEN,XNMS,XNMS,US3810131017,381013101,BYNH8R8
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Cathay General Bancorp,CATY,XNGS,XNGS,US1491501045,149150104,2264235
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Diodes Inc,DIOD,XNGS,XNGS,US2545431015,254543101,2270500
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Allscripts Healthcare Solutions Inc,MDRX,BATS,XNGS,US01988P1084,01988P108,2710039
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Veru Inc,VERU,BATS,XNCM,US92536C1036,92536C103,BDFBQ66
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Montauk Renewables Inc,MNTK,XNCM,XNCM,US61218C1036,61218C103,BN6HHQ0
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Avis Budget Group,CAR,XNGS,XNGS,US0537741052,053774105,B1CL8J2
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Azenta Inc,AZTA,BATS,XNGS,US1143401024,114340102,2145460
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Prometheus Biosciences Inc,RXDX,XNGS,XNGS,US74349U1088,74349U108,BMZ9Z11
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Agios Pharmaceuticals Inc,AGIO,BATS,XNGS,US00847X1046,00847X104,BCBVTX1
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Monro Muffler Brak,MNRO,XNGS,XNGS,US6102361010,610236101,2600088
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Exelixis Inc,EXEL,XNGS,XNGS,US30161Q1040,30161Q104,2576941
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Techtarget Inc,TTGT,XNMS,XNMS,US87874R1005,87874R100,B1XH822
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",City Holdings,CHCO,XNGS,XNGS,US1778351056,177835105,2161778
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Biocryst Pharmaceuticals Inc,BCRX,XNGS,XNGS,US09058V1035,09058V103,2100362
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",First Solar Inc,FSLR,BATS,XNGS,US3364331070,336433107,B1HMF22
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Enterprise Bancorp Inc Ma,EBTC,XNGS,XNGS,US2936681095,293668109,B00K2L4
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Cardlytics Inc,CDLX,XNMS,XNMS,US14161W1053,14161W105,BF1GM49
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Payoneer Global Inc,PAYO,XNMS,XNMS,US70451X1046,70451X104,BLSPX60
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Covetrus Inc,CVET,BATS,XNGS,US22304C1009,22304C100,BHZSB82
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Semtech Co,SMTC,XNGS,XNGS,US8168501018,816850101,2795542
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",OverstockCom Inc,OSTK,XNMS,XNMS,US6903701018,690370101,2855930
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Fate Therapeutics,FATE,XNMS,XNMS,US31189P1021,31189P102,BCZS820
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Inari Medical Inc,NARI,XNGS,XNGS,US45332Y1091,,BLDRF10
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Applovin Corp,APP,BATS,XNGS,US03831W1080,03831W108,BMV3LG4
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Udemy Inc,UDMY,BATS,XNGS,US9026851066,902685106,BPBLNG3
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Myriad Genetics Inc,MYGN,BATS,XNGS,US62855J1043,,2614153
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Turning Point Therapeutics,TPTX,XNGS,XNGS,US90041T1088,,BJXBP30
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Bumble Inc,BMBL,BATS,XNGS,US12047B1052,12047B105,BMZ2WT7
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Ollies Bargain Outlet Hldgs In,OLLI,XNMS,XNMS,US6811161099,681116109,BZ22B38
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Nbt Bancorp Inc,NBTB,XNGS,XNGS,US6287781024,628778102,2626459
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Malibu Boats Inc,MBUU,BATS,XNMS,US56117J1007,,BJ38KJ2
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Atara Biotherapeutics Inc,ATRA,BATS,XNGS,US0465131078,046513107,BP4WT09
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Tradeweb Markets Inc,TW,XNGS,XNGS,US8926721064,892672106,BJXMVK2
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Udemy Inc,UDMY,XNGS,XNGS,US9026851066,902685106,BPBLNG3
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Consolidated Communications Hldgs,CNSL,BATS,XNGS,US2090341072,209034107,B07LSQ7
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Cogent Communications Group,CCOI,XNGS,XNGS,US19239V3024,19239V302,B06RWD1
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Zoominfo Technologies Inc,ZI,BATS,XNGS,US98980F1049,98980F104,BMWF095
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Manhattan Associates,MANH,XNGS,XNGS,US5627501092,562750109,2239471
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Insight Enterprise Inc,NSIT,BATS,XNGS,US45765U1034,45765U103,2475060
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Texas Roadhouse Inc,TXRH,BATS,XNGS,US8826811098,882681109,B033TJ7
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Urban Outfitters Inc,URBN,BATS,XNGS,US9170471026,917047102,2933438
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Aurinia Pharmaceuticals Inc,AUPH,BATS,XNMS,CA05156V1022,05156V102,BFWLC09
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Modivcare Inc,MODV,BATS,XNGS,US60783X1046,60783X104,BNDL420
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Neogen Corp,NEOG,BATS,XNGS,US6404911066,640491106,2630085
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Matson Inc,MATX,BATS,XNYS,US57686G1058,57686G105,B8GNC91
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Interdigital Inc,IDCC,BATS,XNGS,US45867G1013,45867G101,2465737
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Century Aluminum,CENX,BATS,XNGS,US1564311082,156431108,2186254
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Coca-Cola Consolidated,COKE,XNGS,XNGS,US1910981026,191098102,2206721
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",WixCom Ltd,WIX,BATS,XNGS,IL0011301780,M98068105,BFZCHN7
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Ameris Bancorp,ABCB,XNGS,XNGS,US03076K1088,03076K108,2038849
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Netscout Systems Inc,NTCT,XNGS,XNGS,US64115T1043,,2447285
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Marqeta Inc Cl A,MQ,XNGS,XNGS,US57142B1044,57142B104,BN0TQD2
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Tenable Holdings Inc,TENB,BATS,XNGS,US88025T1025,,BF7J7N6
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Alkermes Plc,ALKS,XNGS,XNGS,IE00B56GVS15,G01767105,B3P6D26
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Hyzon Motors Inc,HYZN,XNGS,XNGS,US44951Y1029,,BP38X73
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Option Care Health Inc,OPCH,XNGS,XNGS,US68404L2016,68404L201,BKM5C62
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Millerknoll Inc,MLKN,BATS,XNGS,US6005441000,600544100,2594222
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Canoo Inc,GOEV,BATS,XNGS,US13803R1023,13803R102,BMH7568
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Bancorp Inc Del,TBBK,BATS,XNGS,US05969A1051,05969A105,B05BRL7
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Duolingo Inc,DUOL,XNGS,XNGS,US26603R1068,26603R106,BMCM6P4
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Allogene Therapeutics Inc,ALLO,XNGS,XNGS,US0197701065,019770106,BFZNYB7
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Pc Connection Inc,CNXN,XNGS,XNGS,US69318J1007,,2157175
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Sovos Brands Inc,SOVO,BATS,XNGS,US84612U1079,84612U107,BNZJHZ6
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Eplus Inc,PLUS,BATS,XNGS,US2942681071,294268107,2597748
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Littelfuse Inc,LFUS,XNGS,XNGS,US5370081045,537008104,2531832
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Nbt Bancorp Inc,NBTB,BATS,XNGS,US6287781024,628778102,2626459
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Dropbox Inc,DBX,XNGS,XNGS,US26210C1045,26210C104,BG0T321
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Highpeak Energy Inc,HPK,XNMS,XNMS,US43114Q1058,43114Q105,BN0VNB5
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Ligand Pharmaceutical Inc,LGND,BATS,XNMS,US53220K5048,53220K504,2501578
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Xencor Inc,XNCR,BATS,XNMS,US98401F1057,98401F105,BGCYWN8
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Simmons First National Corp,SFNC,BATS,XNGS,US8287302009,828730200,2810133
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Mandiant Inc Mandiant Inc Ord Shs,0QZY,XLON,XLOM,US5626621065,562662106,BLPPG97
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Hostess Brands Inc Cl A,TWNK,XNCM,XNCM,US44109J1060,,BZ8VJD5
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Myriad Genetics Inc,MYGN,XNGS,XNGS,US62855J1043,,2614153
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Visteon Corporation,VC,BATS,XNGS,US92839U2069,92839U206,B4N0JJ6
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Guardant Health Inc,GH,BATS,XNGS,US40131M1099,40131M109,BFXC911
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Csw Industrials Inc,CSWI,XNGS,XNGS,US1264021064,126402106,BYQD1J6
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",The Odp Corporation,ODP,BATS,XNGS,US88337F1057,88337F105,BLPHWK6
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Cue Health Inc,HLTH,BATS,XNGS,US2297901009,229790100,BM9J045
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Plexus Holdings Plc Ord 1P,POS,XLON,AIMX,GB00B0MDF233,G7150F102,B0MDF23
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Highpeak Energy Inc,HPK,BATS,XNMS,US43114Q1058,43114Q105,BN0VNB5
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Skywest Inc,SKYW,XNGS,XNGS,US8308791024,830879102,2814210
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Supernus Pharma,SUPN,XNMS,XNMS,US8684591089,868459108,B72ZBG4
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Neurocrine Biosciences Inc,NBIX,BATS,XNGS,US64125C1099,64125C109,2623911
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Frontier Communications Parent,FYBR,XNGS,XNGS,US35909D1090,35909D109,BP0V999
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",United Bankshares Inc,UBSI,BATS,XNGS,US9099071071,909907107,2905794
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Everbridge Inc Everbridge Ord Shs,0A6C,XLON,XLOM,US29978A1043,29978A104,BKP8CM4
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Anavex Life Sciences Corporation,AVXL,BATS,XNGS,US0327973006,032797300,BYTYP72
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Universal Logistics Holdings Inc,ULH,BATS,XNGS,US91388P1057,91388P105,B066PX9
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Tetra Tech Inc,TTEK,XNGS,XNGS,US88162G1031,88162G103,2883890
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Millerknoll Inc,MLKN,XNGS,XNGS,US6005441000,600544100,2594222
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Ptc Therapeutics Inc,PTCT,XNGS,XNGS,US69366J2006,,B17VCN9
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Avis Budget Group Inc Avis Budget Group Ord Shs,0HK4,XLON,XLOM,US0537741052,053774105,BFWMXP4
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Forrester Research,FORR,XNGS,XNGS,US3465631097,346563109,2398855
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Upstart Hldgs Inc,UPST,BATS,XNGS,US91680M1071,91680M107,BL53QN5
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Lyft Inc Cl A,LYFT,XNGS,XNGS,US55087P1049,55087P104,BJT1RW7
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Northwestern Corp,NWE,XNGS,XNGS,US6680743050,668074305,B03PGL4
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Alphatec Hldgs Inc,ATEC,BATS,XNGS,US02081G2012,02081G201,BD60BG7
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Banner Corp,BANR,BATS,XNGS,US06652V2088,06652V208,2346003
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Beam Therapeutics Inc,BEAM,BATS,XNGS,US07373V1052,07373V105,BK6L288
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Verra Mobility Corp,VRRM,BATS,XNCM,US92511U1025,92511U102,BFXX5X8
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Gaming And Leisure Props,GLPI,XNGS,XNGS,US36467J1088,,BFPK4S5
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Ryder System,R,XNYS,XNYS,US7835491082,783549108,2760669
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",United Therapeutics Co,UTHR,XNGS,XNGS,US91307C1027,91307C102,2430412
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Cassava-Sciences,SAVA,XNCM,XNCM,US14817C1071,14817C107,BJVLKZ9
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Firstcash Holdings Inc,FCFS,BATS,XNGS,US33768G1076,33768G107,BMF5Q83
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Costar Group,CSGP,XNGS,XNGS,US22160N1090,22160N109,2262864
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Atlas Air Worldwide Holdings I,AAWW,XNGS,XNGS,US0491642056,049164205,B01Z8P4
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Forrester Research Inc,FORR,BATS,XNGS,US3465631097,346563109,2398855
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Cirrus Logic Inc,CRUS,XNGS,XNGS,US1727551004,172755100,2197308
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Vaxcyte Inc,PCVX,BATS,XNGS,US92243G1085,92243G108,BKPVGH6
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",International Bancshares Corp,IBOC,XNGS,XNGS,US4590441030,459044103,2243911
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Sunrun Inc,RUN,BATS,XNGS,US86771W1053,86771W105,BYXB1Y8
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Momentive Global Inc,MNTV,BATS,XNGS,US60878Y1082,,BN6MG91
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Cheesecake Factory,CAKE,XNGS,XNGS,US1630721017,163072101,2192392
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Surgery Partners Cs,SGRY,XNGS,XNGS,US86881A1007,86881A100,BYTC1B2
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Playtika Holding Corp,PLTK,XNGS,XNGS,US72815L1070,72815L107,BNRQKQ7
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Schnitzer Steel,SCHN,BATS,XNGS,US8068821060,806882106,2821298
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Trico Bancshares,TCBK,BATS,XNGS,US8960951064,896095106,2904133
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Lifestance Health Group Inc,LFST,BATS,XNGS,US53228F1012,53228F101,BN0TRB7
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Royalty Pharma Plc Cl A,RPRX,XNGS,XNGS,GB00BMVP7Y09,G7709Q104,BMVP7Y0
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Capitol Federal Financial Inc New,CFFN,BATS,XNGS,US14057J1016,,B3KWJV0
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Columbus Mckinnon Corp,CMCO,XNGS,XNGS,US1993331057,199333105,2211071
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Hub Group Inc A,HUBG,XNGS,XNGS,US4433201062,443320106,2407632
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Duck Creek Technologies Inc,DCT,XNGS,XNGS,US2641201064,264120106,BMFLXR9
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Petco Health And Wellness Compa,WOOF,XNGS,XNGS,US71601V1052,71601V105,BNRQM83
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Contextlogic Inc,WISH,BATS,XNGS,US21077C1071,21077C107,BMYDFW5
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Anterix Inc,ATEX,BATS,XNCM,US03676C1009,03676C100,BJVNMJ3
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Vimeo Inc,VMEO,XNGS,XNGS,US92719V1008,92719V100,BNDYF15
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Phillips Edison Company Inc,PECO,BATS,XNGS,US71844V2016,71844V201,BN48ZR2
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Revolution Medicines Inc,RVMD,BATS,XNGS,US76155X1000,76155X100,BL71K91
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Proterra Inc,PTRA,XNGS,XNGS,US74374T1097,,BN6V2N4
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Bigcommerce Hldgs Inc,BIGC,BATS,XNMS,US08975P1084,08975P108,BMDCDP2
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Neogen Cp,NEOG,XNGS,XNGS,US6404911066,640491106,2630085
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Flywire Corp,FLYW,XNGS,XNGS,US3024921039,302492103,BMBP1Q0
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Mesa Laboratories Inc,MLAB,BATS,XNGS,US59064R1095,59064R109,2553814
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Frontdoor Inc,FTDR,BATS,XNGS,US35905A1097,35905A109,BFYF094
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Construction Partners Inc Cl A,ROAD,XNGS,XNGS,US21044C1071,21044C107,BDT5M66
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Golden Ocean Group Ltd,GOGL,XNGS,XNGS,BMG396372051,G39637205,BYN8774
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Atricure Inc,ATRC,XNMS,XNMS,US04963C2098,04963C209,B0C8KV2
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Patterson Companies Inc Patterson Companies Ord Shs,0KGB,XLON,XLOM,US7033951036,703395103,BYZHBF5
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Aspen Technology Inc,AZPN,XNGS,XNGS,,29109X106,BP2V812
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Stoke Therapeutics Inc,STOK,XNGS,XNGS,US86150R1077,86150R107,BJQ05Z6
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",United Bankshares Inc,UBSI,XNGS,XNGS,US9099071071,909907107,2905794
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Universal Display Co,OLED,XNGS,XNGS,US91347P1057,91347P105,2277880
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Matterport Inc,MTTR,XNMS,XNMS,US5770961002,577096100,BN75T01
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Chemocentryx Inc,CCXI,BATS,XNGS,US16383L1061,16383L106,B6ZL968
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Sofi Technologies Inc,SOFI,BATS,XNGS,US83406F1021,83406F102,BM8J4C2
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Rivian Automotive Inc De,RIVN,XNGS,XNGS,US76954A1034,76954A103,BL98841
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Cargurus Inc Cl A,CARG,XNGS,XNGS,US1417881091,141788109,BF5D6S8
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Driven Brands Holdings Inc,DRVN,BATS,XNGS,US26210V1026,26210V102,BL0P090
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Extreme Networks Inc,EXTR,XNGS,XNGS,US30226D1063,30226D106,2407052
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Lifestance Health Group Inc,LFST,XNGS,XNGS,US53228F1012,53228F101,BN0TRB7
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Euronet Worldwide Inc,EEFT,BATS,XNGS,US2987361092,298736109,2320148
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Huron Consulting Group,HURN,XNGS,XNGS,US4474621020,447462102,B018V76
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Paycor Hcm Inc,PYCR,BATS,XNGS,US70435P1021,70435P102,BNLYJ59
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Nexstar Media Group Inc,NXST,BATS,XNGS,US65336K1034,65336K103,2949758
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Exp World Holdin,EXPI,XNMS,XNMS,US30212W1009,30212W100,BDH2902
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Corsair Gaming Inc,CRSR,BATS,XNGS,US22041X1028,22041X102,BMGWSJ8
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",First Solar Inc,FSLR,XNGS,XNGS,US3364331070,336433107,B1HMF22
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Macom Technology Solutions Holdings,MTSI,BATS,XNGS,US55405Y1001,,B5B15Y5
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Adapthealth Corp,AHCO,XNCM,XNCM,US00653Q1022,00653Q102,BKDRF35
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Malibu Boats Inc Cl A,MBUU,XNMS,XNMS,US56117J1007,,BJ38KJ2
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Applovin Corp,APP,XNGS,XNGS,US03831W1080,03831W108,BMV3LG4
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Silicon Laboratories,SLAB,XNGS,XNGS,US8269191024,826919102,2568131
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Exponent Inc,EXPO,XNGS,XNGS,US30214U1025,30214U102,2330318
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Kura Oncology Inc,KURA,XNGS,XNGS,US50127T1097,,BYZD465
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Dorman Products In,DORM,XNGS,XNGS,US2582781009,258278100,2718594
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",First Advantage Corp,FA,XNGS,XNGS,US31846B1089,31846B108,BNKGY06
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Eagle Bancorp Inc,EGBN,XNCM,XNCM,US2689481065,268948106,2648055
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Beauty Health Co,SKIN,XNCM,XNCM,US88331L1089,88331L108,BNQQ6C6
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Goosehead Insurance Inc Cl A,GSHD,XNGS,XNGS,US38267D1090,38267D109,BZ2YT30
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Plug Power Inc,PLUG,BATS,XNCM,US72919P2020,72919P202,2508386
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Northwest Bancshares Inc,NWBI,BATS,XNGS,US6673401039,667340103,B523Z73
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Contextlogic Inc Cl A,WISH,XNGS,XNGS,US21077C1071,21077C107,BMYDFW5
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Rambus Inc,RMBS,XNGS,XNGS,US7509171069,750917106,2721967
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Forward Air Co,FWRD,XNGS,XNGS,US3498531017,349853101,2510790
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Trimas Corp,TRS,BATS,XNGS,US8962152091,896215209,B1XHRL4
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Meta Financial Group,CASH,XNGS,XNGS,US59100U1088,59100U108,2420316
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",First Financial Bancorp,FFBC,XNGS,XNGS,US3202091092,320209109,2352806
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Ingles Market Inc,IMKTA,BATS,XNGS,US4570301048,457030104,2460550
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Sage Therapeutics Inc,SAGE,BATS,XNMS,US78667J1088,,BP4GNK9
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Tfs Financial Co,TFSL,XNGS,XNGS,US87240R1077,87240R107,B1W8J67
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Novanta Inc,NOVT,BATS,XNGS,CA67000B1040,67000B104,BD8S5H8
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Alector Inc,ALEC,BATS,XNGS,US0144421072,014442107,BJ4LDC4
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Mercury Systems Inc,MRCY,XNGS,XNGS,US5893781089,589378108,2144047
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Mirati Therapeutics Inc,MRTX,BATS,XNGS,US60468T1051,,BBPK0J0
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Intellia Therapeutics Inc,NTLA,BATS,XNMS,US45826J1051,,BYZM6C2
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Corcept Therapeutics Inc,CORT,XNCM,XNCM,US2183521028,218352102,B00SCY1
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Ryder System Inc,R,BATS,XNYS,US7835491082,783549108,2760669
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Sonos Inc Sonos Ord Shs,0ZFN,XLON,XLOM,US83570H1086,83570H108,BGV7175
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Victory Capital Holdings Inc,VCTR,BATS,XNGS,US92645B1035,92645B103,BFYVKR0
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Intellia Thera Cs,NTLA,XNMS,XNMS,US45826J1051,,BYZM6C2
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Avis Budget Group Inc,CAR,BATS,XNGS,US0537741052,053774105,B1CL8J2
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Exlservice Hldgs Inc,EXLS,BATS,XNGS,US3020811044,302081104,B07LST0
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Integral Ad Science Holding Cor,IAS,XNGS,XNGS,US45828L1089,45828L108,BP7L3L2
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Eastern Bankshares Inc,EBC,XNGS,XNGS,US27627N1054,27627N105,BMXL9H3
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Bentley Systems Inc,BSY,BATS,XNGS,US08265T2087,,BMC1PR6
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Trustmark Corp,TRMK,BATS,XNGS,US8984021027,898402102,2340210
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Industrial Logistics Properties,ILPT,XNGS,XNGS,US4562371066,456237106,BFFK7S6
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Digital Turbine Inc,APPS,BATS,XNCM,US25400W1027,25400W102,BVFNZL6
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Digital Turbine Inc Digital Turbine Ord Shs,0A6A,XLON,XLOM,US25400W1027,25400W102,BMVMNB0
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Open Lending Corporation,LPRO,BATS,XNMS,US68373J1043,,BMTD3M6
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Sterling Check Corp,STER,XNGS,XNGS,US85917T1097,,BMHT0H0
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Xperi Holding Corporation,XPER,BATS,XNGS,US98390M1036,98390M103,BMWP0C8
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Weatherford International Plc,WFRD,XNGS,XNGS,IE00BLNN3691,G48833118,BLNN369
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Ttm Technologies Inc,TTMI,XNGS,XNGS,US87305R1095,87305R109,2635659
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Leo Holdings Corp Ii,LHC,BATS,XNYS,KYG5463R1020,G5463R102,BKY4RD9
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Arrowhead Pharmaceuticals Inc Arrowhead Pharmaceuticals Ord Shs,0HI3,XLON,XLOM,US04280A1007,04280A100,BG05R16
+"['Nasdaq Composite', 'Russell 2000', 'Russell 3000']",Helen Of Troy Ltd,HELE,XNGS,XNGS,BMG4388N1065,G4388N106,2419530
+"['Nasdaq Composite', 'Russell 1000', 'Russell 3000']",Five9 Inc,FIVN,XNMS,XNMS,US3383071012,338307101,BKY7X18
